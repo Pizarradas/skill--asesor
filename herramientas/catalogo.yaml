@@ -1,0 +1,247 @@
+# Catálogo planificado de fichas. El validador exige que cada ID exista como ficha
+# y que toda referencia ([[ID]] o relacionadas) apunte a un ID de este catálogo.
+# Para añadir una ficha: añadir aquí la línea, crear el fichero, ejecutar generar_indices.py y validar.py.
+
+FUN:
+  "001": El ajuste es lo primero
+  "002": Proporción y líneas del cuerpo
+  "003": La escala de formalidad
+  "004": Coherencia y mezcla de registros (high-low)
+  "005": Textura y peso visual
+  "006": Contraste y punto focal en el rostro
+  "007": Sprezzatura y naturalidad
+  "008": Siluetas históricas y actuales
+  "009": Capas (layering)
+  "010": Construir un estilo personal
+  "011": Psicología de la ropa y percepción
+  "012": Edad y estilo
+
+COL:
+  "001": Rueda de color aplicada a la ropa
+  "002": Los neutros masculinos
+  "003": Armonías de color en un conjunto
+  "004": Combinar traje, camisa y corbata
+  "005": Mezclar estampados
+  "006": Catálogo de estampados clásicos
+  "007": Color según estación y luz
+  "008": Valor, contraste y cámara
+  "009": Color del calzado y el cinturón según el traje
+  "010": Significados culturales del color
+
+MIT:
+  "001": El último botón de la americana
+  "002": Marrón en la ciudad
+  "003": Cinturón y zapatos a juego
+  "004": Nada de negro ni esmoquin de día
+  "005": Calcetines a juego con pantalón o zapato
+  "006": Puño de camisa visible bajo la manga
+  "007": Largo de la corbata
+  "008": Manga corta con corbata
+  "009": Mezclar metales y pieles
+  "010": Tejidos y colores de temporada
+  "011": Botones de manga funcionales
+  "012": Hilvanes, etiquetas y bolsillos cosidos en prendas nuevas
+
+CUE:
+  "001": Tipologías corporales masculinas
+  "002": Estatura baja
+  "003": Estatura alta y complexión delgada
+  "004": Corpulencia y abdomen
+  "005": Tallas y equivalencias internacionales
+  "006": Forma del rostro y elecciones cercanas a la cara
+  "007": Colorimetría personal
+  "008": Particularidades del cuerpo (cuello, hombros, asimetrías)
+  "009": Complexión musculada
+  "010": Cómo tomarse las medidas
+  "011": Proporción torso–pierna
+
+AJU:
+  "001": Ajuste de la americana
+  "002": Ajuste del pantalón
+  "003": Largo y quiebre del pantalón
+  "004": Ajuste de la camisa
+  "005": Diagnóstico de arrugas y tirones
+  "006": Qué se puede arreglar y qué no
+  "007": Niveles de confección (confección, made-to-measure, a medida)
+  "008": Cómo trabajar con un sastre
+  "009": Ajuste de abrigos y punto
+  "010": Ajuste del calzado
+
+SAS:
+  "001": Anatomía del traje
+  "002": Solapas
+  "003": Abotonadura recta y cruzada
+  "004": Aberturas, bolsillos y detalles de la americana
+  "005": Los primeros trajes
+  "006": Blazer y americana sport
+  "007": Cuellos de camisa
+  "008": Puños, tapeta y detalles de la camisa
+  "009": Tejidos de camisa
+  "010": Pantalón de vestir
+  "011": La corbata
+  "012": Nudos de corbata
+  "013": La pajarita
+  "014": Pañuelo de bolsillo
+  "015": Chaleco y traje de tres piezas
+  "016": Gemelos y pequeños accesorios de vestir
+  "017": El esmoquin
+  "018": El chaqué
+  "019": El frac
+  "020": Tirantes y cinturón con traje
+
+CAS:
+  "001": Vaqueros
+  "002": Chinos y pantalones de algodón
+  "003": La camiseta
+  "004": El polo
+  "005": Camisas informales
+  "006": Punto
+  "007": Sudadera y hoodie
+  "008": Sobrecamisa y chore jacket
+  "009": Pantalón corto
+  "010": Ropa deportiva y athleisure
+  "011": Bañador
+  "012": Ropa interior y capas base
+  "013": Otros pantalones informales (pana, cargo, pinzas amplias)
+
+EXT:
+  "001": Sistema de prendas exteriores
+  "002": Abrigo Chesterfield y abrigo de vestir
+  "003": Abrigo polo, Ulster y abrigos cruzados
+  "004": Gabardina (trench coat)
+  "005": Mac, raglán y balmacaan
+  "006": Chaquetón marinero (peacoat)
+  "007": Parka y plumífero
+  "008": Chaqueta encerada y chaqueta de campo
+  "009": Chaquetas de cuero
+  "010": Bomber, Harrington y trucker
+  "011": Chaleco acolchado
+  "012": Abrigo sobre traje
+
+CAL:
+  "001": Anatomía del zapato y formalidad
+  "002": Oxford
+  "003": Derby
+  "004": Brogue y picados
+  "005": Mocasines
+  "006": Monk strap
+  "007": Botas
+  "008": Zapatillas
+  "009": Construcción del calzado
+  "010": Pieles del calzado
+  "011": Suelas
+  "012": Calzado de verano
+  "013": Combinar calzado, pantalón y ocasión
+  "014": Cuidado del calzado
+
+ACC:
+  "001": El reloj
+  "002": El cinturón
+  "003": Calcetines
+  "004": Gafas
+  "005": Sombreros y gorras
+  "006": Bufandas y guantes
+  "007": Bolsos, maletines y mochilas
+  "008": Cartera y pequeña marroquinería
+  "009": Joyería masculina
+  "010": Paraguas y accesorios de lluvia
+  "011": Pañuelos de cuello, ascot y bandanas
+
+TEJ:
+  "001": Fibras naturales y sintéticas
+  "002": Lana, estambre y números Super
+  "003": Tejidos de traje
+  "004": Tweed y lanas gruesas
+  "005": Algodón y tejidos de camisa
+  "006": Denim
+  "007": Lino y tejidos para el calor
+  "008": Fibras nobles de punto
+  "009": Seda
+  "010": Sintéticos, mezclas y tejidos técnicos
+  "011": Gramaje y estación
+  "012": Construcción de la americana (entretelas)
+  "013": Señales de calidad en una prenda
+  "014": Cuero y ante en prendas
+  "015": Durabilidad, sostenibilidad y certificaciones
+
+CUI:
+  "001": Símbolos de cuidado en la etiqueta
+  "002": Lavado de camisas y básicos
+  "003": Cuidado del traje
+  "004": Planchado
+  "005": Cuidado del punto
+  "006": Almacenamiento y polillas
+  "007": Cuidado del cuero y el ante
+  "008": Manchas
+  "009": Reparaciones y arreglos de mantenimiento
+  "010": Doblar y hacer la maleta
+
+COD:
+  "001": Escala de códigos de vestimenta
+  "002": Etiqueta de noche (frac)
+  "003": Black tie y sus variantes
+  "004": Etiqueta de día (chaqué)
+  "005": Traje oscuro y cóctel
+  "006": Business formal
+  "007": Business casual
+  "008": Smart casual
+  "009": Casual
+  "010": Protocolo español e interpretación de invitaciones
+  "011": Códigos internacionales y lugares de culto
+  "012": Funerales y luto
+
+OCA:
+  "001": Boda como invitado
+  "002": Boda como novio o padrino
+  "003": Entrevista de trabajo
+  "004": Oficina según sector
+  "005": Primera cita
+  "006": Viajes
+  "007": Calor intenso
+  "008": Frío y lluvia
+  "009": Playa y vacaciones
+  "010": Noche, conciertos y fiestas
+  "011": Videollamada y fotografía
+  "012": Comuniones, bautizos y graduaciones
+  "013": Hablar en público, escenario y televisión
+
+EST:
+  "001": Mapa de estéticas masculinas
+  "002": Sastrería británica
+  "003": Sastrería italiana
+  "004": Ivy League y preppy
+  "005": Workwear y heritage
+  "006": Herencia militar
+  "007": Minimalismo
+  "008": Streetwear
+  "009": Techwear y gorpcore
+  "010": Moda japonesa (Amekaji y vanguardia)
+  "011": Estilo mediterráneo y riviera
+  "012": Subculturas (mod, rock, punk, skin, rockabilly)
+  "013": Old money y quiet luxury
+  "014": Tradición y estilo español
+  "015": Tendencias 2025–2026
+  "016": Breve historia de la moda masculina
+
+ARM:
+  "001": Armario cápsula masculino
+  "002": Prioridades de compra y coste por uso
+  "003": Dónde invertir y dónde ahorrar
+  "004": Fórmulas de outfit
+  "005": Armario por clima y estación
+  "006": Canales de compra (tienda, online, segunda mano, vintage)
+  "007": Rebajas y compras impulsivas
+  "008": Auditoría del armario
+  "009": Armario profesional por perfil
+  "010": Estilo con presupuesto ajustado
+
+ASE:
+  "001": Corte de pelo
+  "002": Barba
+  "003": Afeitado
+  "004": Cuidado básico de la piel
+  "005": Fragancia
+  "006": Manos, uñas e higiene
+  "007": Calvicie y entradas
+  "008": Canas
+  "009": Postura y presencia
