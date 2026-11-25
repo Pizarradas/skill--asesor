@@ -1,0 +1,686 @@
+<!-- GENERADO por herramientas/generar_indices.py · no editar a mano -->
+
+# Fuentes citadas
+
+680 fuentes distintas, ordenadas por número de fichas que las citan.
+
+- Alan Flusser — Dressing the Man (2002) — *ACC-001, ACC-002, ACC-003, ACC-006, ACC-007, ACC-009, ACC-011, AJU-001, AJU-002, AJU-003, AJU-004, AJU-005, AJU-006, AJU-008, AJU-009, ARM-001, ARM-003, ARM-004, ARM-009, CAL-001, CAL-002, CAL-003, CAL-004, CAL-005, CAL-006, CAL-013, CAS-001, CAS-002, CAS-005, CAS-013, COD-006, COL-001, COL-002, COL-003, COL-004, COL-006, COL-009, CUE-002, CUE-003, CUE-004, CUE-008, CUE-009, CUE-011, CUI-003, CUI-009, CUI-010, EST-006, EXT-001, EXT-002, EXT-003, EXT-012, FUN-003, FUN-004, FUN-005, FUN-010, FUN-012, MIT-001, MIT-002, MIT-003, MIT-005, MIT-006, MIT-007, MIT-008, MIT-009, MIT-011, OCA-001, OCA-007, OCA-008, OCA-010, SAS-002, SAS-003, SAS-004, SAS-005, SAS-006, SAS-007, SAS-008, SAS-009, SAS-010, SAS-011, SAS-012, SAS-015, SAS-017, SAS-020, TEJ-004, TEJ-005, TEJ-009, TEJ-012, TEJ-013*
+- Bernhard Roetzel — Gentleman (1999) — *ACC-002, ACC-005, ACC-006, ACC-007, ACC-008, ACC-009, ACC-010, AJU-001, AJU-002, AJU-003, AJU-004, AJU-009, AJU-010, ARM-001, ARM-004, ARM-005, ARM-008, ARM-009, CAL-003, CAL-004, CAL-005, CAL-006, CAL-007, CAL-013, CAS-003, CAS-005, CAS-006, CAS-012, CAS-013, COL-002, COL-004, COL-005, COL-006, COL-007, COL-009, CUE-003, CUE-004, CUE-005, CUE-006, CUE-009, CUE-010, EXT-001, EXT-008, FUN-005, FUN-009, MIT-002, MIT-003, MIT-005, MIT-006, MIT-007, MIT-008, MIT-009, MIT-010, MIT-012, OCA-005, OCA-006, OCA-007, OCA-008, OCA-009, OCA-010, SAS-004, SAS-005, SAS-007, SAS-008, SAS-009, SAS-010, SAS-016, SAS-017, SAS-018, SAS-019*
+- Bernhard Roetzel — Gentleman: A Timeless Guide to Fashion (1999) — *CAL-001, CUE-001, CUI-003, CUI-004, CUI-007, CUI-009, CUI-010, EST-001, EST-002, EST-003, EST-006, EST-011, FUN-001, FUN-002, FUN-003, OCA-004, SAS-001, TEJ-001, TEJ-003, TEJ-004, TEJ-005, TEJ-007, TEJ-009, TEJ-013, TEJ-014*
+- G. Bruce Boyer — True Style (2015) — *ACC-011, ARM-004, CAL-005, CAL-008, CAL-012, CAL-013, CAS-009, CAS-011, COD-009, FUN-004, FUN-007, FUN-008, FUN-010, FUN-012, MIT-003, MIT-005, MIT-007, MIT-009, MIT-010*
+- Sara J. Kadolph — Textiles (Pearson, 10.ª ed., 2007) — *CUI-002, CUI-004, CUI-005, CUI-008, CUI-009, CUI-010, TEJ-001, TEJ-003, TEJ-004, TEJ-005, TEJ-006, TEJ-007, TEJ-008, TEJ-009, TEJ-010, TEJ-013, TEJ-014*
+- Hardy Amies — ABC of Men's Fashion (1964) — *ACC-005, ACC-011, COL-004, CUE-003, CUE-011, EST-002, EXT-012, FUN-001, SAS-018*
+- László Vass y Magda Molnár — Handmade Shoes for Men (1999) — *CAL-001, CAL-002, CAL-003, CAL-004, CAL-006, CAL-009, CAL-010, CAL-011, CAL-014*
+- Wikipedia — Black tie. https://en.wikipedia.org/wiki/Black_tie — *MIT-004, SAS-002, SAS-004, SAS-008, SAS-013, SAS-014, SAS-016, SAS-017*
+- Alan Flusser — Dressing the Man: Mastering the Art of Permanent Fashion (2002) — *CUE-001, EST-001, FUN-001, FUN-002, SAS-001, TEJ-003*
+- Debrett's — Know your dress codes (business.debretts.com) — *ARM-004, ARM-009, OCA-002, OCA-003, OCA-004, OCA-012*
+- Wikipedia — White tie. https://en.wikipedia.org/wiki/White_tie — *COD-002, SAS-008, SAS-013, SAS-014, SAS-016, SAS-019*
+- ISO 3758:2023 — Textiles — Care labelling code using symbols — *CUI-002, CUI-003, CUI-004, CUI-005, CUI-008*
+- Roberto Cabrera y Patricia Flaherty Meyers — Classic Tailoring Techniques (1983) — *AJU-001, AJU-002, AJU-005, AJU-006, AJU-007*
+- W. David Marx — Ametora: How Japan Saved American Style (2015) — *EST-001, EST-004, EST-005, EST-010, TEJ-006*
+- G. Bruce Boyer — Elegance (1985) — *AJU-003, CUE-004, CUE-011, SAS-006*
+- Gentleman's Gazette (Black Tie Guide) — When & Where Can You Wear Black Tie? https://www.gentlemansgazette.com/tuxedo-black-tie-guide/etiquette/when-where-wear-tuxedo/ — *COD-001, COD-003, COD-011, MIT-004*
+- Gentleman's Gazette — The Dress Code Primer. https://www.gentlemansgazette.com/the-dress-code-primer/ — *COD-001, COD-006, COD-008, COD-009*
+- J. Gordon Cook — Handbook of Textile Fibres, vol. I: Natural Fibres (Woodhead, 1984) — *CUI-005, TEJ-005, TEJ-008, TEJ-009*
+- Nicholas Antongiavanni — The Suit: A Machiavellian Approach to Men's Style (2006) — *FUN-007, MIT-008, SAS-002, TEJ-012*
+- Proper Cloth — Selecting a Watch Allowance (consulta 2026-11). https://propercloth.com/reference/watch-allowance/ — *ACC-001, AJU-004, MIT-006, SAS-008*
+- Put This On — How to shop on a budget (putthison.com) — *ARM-003, ARM-007, ARM-009, ARM-010*
+- Bruce Boyer — Elegance: A Guide to Quality in Menswear (1985) — *CUI-009, TEJ-012, TEJ-013*
+- Cronoshare — ¿Cuánto cuesta un arreglo de ropa? (8 de enero de 2026) — *AJU-006, AJU-009, CUI-009*
+- Derek Guy (Die Workwear) para Mr Porter — How to do business casual style right. https://www.mrporter.com/journal/fashion/dieworkwear-how-to-do-business-casual-style-right-24645002 — *COD-006, COD-007, COD-008*
+- Dick Hebdige — Subculture: The Meaning of Style (1979) — *EST-001, EST-008, EST-012*
+- El Corte Inglés, Bodamas — ¿Cómo debes vestir el chaqué? https://www.elcorteingles.es/bodamas/como-debes-vestir-el-chaque/ — *COD-004, COD-010, MIT-004*
+- G. Bruce Boyer — True Style: The History and Principles of Classic Menswear (2015) — *EST-011, FUN-003, OCA-009*
+- Gentleman's Gazette — The Anatomy of a Suit Jacket. https://www.gentlemansgazette.com/the-anatomy-suit-jacket/ — *SAS-002, SAS-003, SAS-004*
+- Nicholas Antongiavanni — The Suit (2006) — *COD-006, MIT-005, SAS-005*
+- Permanent Style — Be patient with wardrobe building (2010) — *ARM-002, ARM-007, ARM-008*
+- Permanent Style — Introducing: The PS Bridge Coat. https://www.permanentstyle.com/?p=61319 — *EXT-003, EXT-006, EXT-012*
+- Permanent Style — The coat project (2009). https://www.permanentstyle.com/2009/08/the-coat-project.html — *EXT-001, EXT-002, EXT-012*
+- Valerie Steele (ed.) — The Berg Companion to Fashion (2010) — *CAS-011, EST-001, EST-016*
+- American Academy of Dermatology — Skin care tips for men. https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-for-men — *ASE-003, ASE-004*
+- Ascot Racecourse — Royal Ascot Style Guide (2023). https://ascot.com — *ACC-005, ACC-011*
+- Bockmühl, D. P. — Laundry hygiene: how to get more than clean. Journal of Applied Microbiology 122(5), 1124–1133 (2017) — *CUI-002, CUI-008*
+- Bodas.net — El chaqué de novio. https://www.bodas.net/articulos/el-chaque-de-novio--c2473 — *COD-004, SAS-018*
+- BOE — RD 1826/2009 (modifica el RITE, RD 1027/2007: límites de temperatura en edificios públicos y comercios) y RDL 14/2022 (límites temporales de 19 °C y 27 °C, vigentes hasta noviembre de 2023) — *OCA-007, OCA-008*
+- Brooks Brothers — 125 Years of the Button-Down Collar Shirt. https://www.brooksbrothers.com/125shirts.html — *CAS-004, CAS-005*
+- Christopher Breward — The Suit: Form, Function and Style (2016) — *EST-016, FUN-008*
+- Columbia School of Social Work — What to wear on camera (PDF) — *OCA-011, OCA-013*
+- Consumer (Eroski) — Arreglos de costura (2007) — *AJU-006, AJU-008*
+- Debrett's — Know your dress codes (resumen del Debrett's Handbook). https://business.debretts.com/know-your-dress-codes — *COD-001, MIT-004*
+- El Corte Inglés — La guía definitiva para acertar con el dress code de un evento. https://www.elcorteingles.es/contenidos/moda-y-accesorios/como-vestir-invitado-evento/ — *COD-001, COD-005*
+- El Debate — Petro rechaza usar frac en la cena de gala de los Reyes (2023). https://www.eldebate.com/espana/20230503/petro-rechaza-usar-frac-cena-gala-reyes-porque-le-parece-prenda-elitista_112199.html — *COD-002, COD-010*
+- G. Bruce Boyer — Elegance: A Guide to Quality in Menswear (1985) — *CUE-002, SAS-001*
+- Gentleman's Gazette — Bottom Button Rules for Vest & Waistcoat. https://www.gentlemansgazette.com/waiscoat-button/ — *MIT-001, SAS-015*
+- Gentleman's Gazette — Cashmere Explained. https://www.gentlemansgazette.com/cashmere-explained/ — *CUI-005, TEJ-008*
+- Gentleman's Gazette — Features of a Pair of Pants. https://www.gentlemansgazette.com/features-of-a-pair-of-pants/ — *SAS-010, SAS-020*
+- Gentleman's Gazette — How to Wear Brown Shoes & Boots. https://www.gentlemansgazette.com/how-to-wear-brown-shoes-boots-men/ — *MIT-002, MIT-003*
+- Gentleman's Gazette — The truth about leather goods. https://www.gentlemansgazette.com/leather-goods-truth/ — *ACC-007, ACC-008*
+- Gentleman's Gazette — Tuxedo overcoats, hats & gloves. https://www.gentlemansgazette.com/tuxedo-black-tie-guide/classic/tuxedo-overcoats-hats-gloves/ — *EXT-002, EXT-012*
+- Gentleman's Gazette — Worsted Wool Suiting Guide. https://www.gentlemansgazette.com/worsted-wool-suiting-guide/ — *TEJ-002, TEJ-003*
+- Hola.com Novias — Guía esencial para entender la etiqueta (2015) — *OCA-001, OCA-012*
+- Howlett, N. et al. — The influence of clothing on first impressions. Journal of Fashion Marketing and Management 17(1), 38–48 (2013) — *ARM-010, OCA-005*
+- Icebreaker — Baselayer guide. https://na.icebreaker.com/en-us/pages/guide-baselayer — *CAS-010, CAS-012*
+- ISO 15115:2019 — Leather — Vocabulary — *CUI-007, TEJ-014*
+- ISO — ISO 19407:2023 Footwear. Sizing. Conversion of sizing systems — *AJU-010, CUE-005*
+- ISO — ISO 9407:2019 Shoe sizes. Mondopoint system of sizing and marking — *AJU-010, CUE-005*
+- Jesper Ingevaldsson — Guide: sole types for shoes and boots (2022). https://shoegazing.com/2022/12/27/guide-sole-types-for-shoes-and-boots — *ACC-010, CAL-011*
+- Jesper Ingevaldsson — History: the Blake construction (2022). https://shoegazing.com/2022/01/16/history-the-blake-construction — *CAL-009, CAL-012*
+- Josh Sims — Icons of Men's Style (2011) — *COL-006, EST-006*
+- Lehmann, Elliot y Calin-Jageman — Meta-analysis of the effect of red on perceived attractiveness, Evolutionary Psychology 16(4) (2018). https://doi.org/10.1177/1474704918802412 — *FUN-011, OCA-005*
+- Mizzen+Main — How Long Should Men's Shorts Be? https://www.mizzenandmain.com/blog/how-long-should-mens-shorts-be — *CAS-009, CAS-011*
+- Moss — A guide to cloth weights. https://www.moss.co.uk/inside-pocket/post/a-guide-to-cloth-weights — *SAS-005, TEJ-011*
+- Nicolas Antongiavanni — The Suit: A Machiavellian Approach to Men's Style (2006) — *AJU-001, CUE-006*
+- Permanent Style — How to make a cheap suit look good (2015) — *ARM-003, ARM-010*
+- Permanent Style — The guide to worsted suitings (2017). https://www.permanentstyle.com/2017/12/the-guide-to-worsted-suitings — *TEJ-003, TEJ-011*
+- Peter Marshall — Black Tie Guide (blacktieguide.com) — *OCA-001, OCA-002*
+- Primer Magazine — Free cost per wear calculator: the useful, flawed math of buying clothes by the numbers (2026) — *ARM-001, ARM-002*
+- Proper Cloth — Dress Shirt Fabrics Overview. https://propercloth.com/reference/dress-shirt-fabrics/ — *SAS-008, SAS-009*
+- Proper Cloth — How jacket posture should fit (consulta 2026-11) — *AJU-005, CUE-008*
+- Put This On — Chest Canvas and the Pinch Test. https://putthison.com/post/2817493175/chest-canvas-and-the-pinch-test-id-been — *TEJ-012, TEJ-013*
+- Put This On — guía de calzado para black tie. https://putthison.com — *CAL-002, CAL-013*
+- Put This On — Q&A: Can a collar gap be fixed? (consulta 2026-11) — *AJU-005, CUE-008*
+- Russell Athletic — Sweatshirt history. https://russellathletic.com/blog/sweatshirt-history — *CAS-007, CAS-010*
+- SATRA — EN 343:2019 Protective clothing against rain (tabla de clases). https://satra.com/spotlight/article.php?id=590 — *EXT-005, TEJ-010*
+- Skanwear — EN 343 (clases de RET). https://skanwear.com/blogs/ppe-standards/en-343 — *EXT-005, TEJ-010*
+- Suitsupply — Overcoat Guide. https://suitsupply.com/en-ae/journal/overcoat-guide.html — *EXT-001, EXT-012*
+- Teruyoshi Hayashida, Shosuke Ishizu et al. — Take Ivy (1965) — *CAS-002, CAS-005*
+- The Tie Bar — Tie bar placement rules. https://www.thetiebar.com/blogs/faqs/tie-bar-placement-rules — *SAS-011, SAS-016*
+- University of Toronto Mississauga — Tips on what to wear to broadcast interviews (utm.utoronto.ca) — *OCA-011, OCA-013*
+- Wikipedia — Morning dress. https://en.wikipedia.org/wiki/Morning_dress — *COD-004, SAS-013*
+- ¡Hola! Novias — Guía esencial para entender la etiqueta (2015). https://www.hola.com/novias/2015072480121/etiqueta-fiesta-tipos/ — *COD-005, COD-010*
+- 16 CFR § 300.19 — Use of terms mohair and cashmere (EE. UU.). https://www.law.cornell.edu/cfr/text/16/300.19 — *TEJ-008*
+- 16 CFR § 300.20a — Use of terms Super 80s through Super 250s (EE. UU.). https://www.law.cornell.edu/cfr/text/16/300.20a — *TEJ-002*
+- 3Cat — Sebastián diu que continuarà anant sense corbata al Congrés (julio de 2011); Menorca.info — Pedro Sánchez pide no usar corbata para ahorrar energía (29-07-2022) — *OCA-004*
+- A.I.S.E. (International Association for Soaps, Detergents and Maintenance Products) — campaña I prefer 30° — *CUI-002*
+- Abram Sauer — Are your pants lying to you? An investigation. Esquire (septiembre 2010); recogido por NPR y Marketplace (2010) — *ARM-006*
+- Academia Española de Dermatología y Venereología (AEDV) / Fundación Piel Sana — campañas Euromelanoma y fotoprotección. https://aedv.es — *ASE-004*
+- Academia Española de Dermatología y Venereología (AEDV) — Fundación Piel Sana, información al paciente. https://fundacionpielsana.es — *ASE-003*
+- Academia Española de Dermatología y Venereología (AEDV) — información al paciente sobre hiperhidrosis — *ASE-006*
+- Actas Dermo-Sifiliográficas (revista de la AEDV) — cartas y estudios sobre minoxidil oral a dosis bajas (2022, 2024, 2025) — *ASE-007*
+- Adam y Galinsky — Reflections on enclothed cognition: commentary on Burns et al., JESP 83 (2019) — *FUN-011*
+- Adam, H. y Galinsky, A. D. — Enclothed cognition. Journal of Experimental Social Psychology 48(4), 918–925 (2012) — *OCA-005*
+- Adobe — Anti-aliasing (adobe.com/creativecloud/photography/discover/anti-aliasing.html) — *OCA-011*
+- Advertising Standards Authority (Reino Unido) — resolución sobre Sartoriani (2008), según Wikipedia y Permanent Style — *AJU-007*
+- AEMET — Valores climatológicos normales 1981–2010 (Burgos Aeropuerto, Madrid Retiro, Bilbao Aeropuerto, Santiago de Compostela Aeropuerto, Sevilla Aeropuerto). https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos — *EXT-001*
+- AEMET — Valores climatológicos normales 1981–2010 (Valencia 8416, Gran Canaria Aeropuerto C649I) — *OCA-009*
+- AEMET — Valores climatológicos normales 1981–2010: Bilbao Aeropuerto (1082), Burgos Aeropuerto (2331), Madrid Retiro (3195) — *OCA-008*
+- AEMET — Valores climatológicos normales 1981–2010: Sevilla Aeropuerto (5783), Madrid Retiro (3195), Valencia (8416) — *OCA-007*
+- AEMET — Valores climatológicos normales 1981–2010: Valencia (8416), Bilbao Aeropuerto (1082), Burgos Aeropuerto (2331), Madrid Retiro (3195), Sevilla Aeropuerto (5783), Gran Canaria Aeropuerto (C649I). https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos — *ARM-005*
+- AEMPS — Centro de Información de Medicamentos (CIMA), fichas técnicas de minoxidil tópico y finasterida 1 mg. https://cima.aemps.es — *ASE-007*
+- Agencia Europea de Medicamentos (EMA) — Measures to minimise risk of suicidal thoughts with finasteride and dutasteride medicines (08-05-2025). https://www.ema.europa.eu/en/news/measures-minimise-risk-suicidal-thoughts-finasteride-dutasteride-medicines — *ASE-007*
+- Agencia Europea de Sustancias y Mezclas Químicas (ECHA) — ficha de clasificación del tetracloroetileno. https://echa.europa.eu — *CUI-003*
+- Ajuntament de Barcelona, Guardia Urbana — Consejos de convivencia (ajuntament.barcelona.cat/guardiaurbana); elDiario.es y Ara (febrero de 2026) sobre la nueva ordenanza — *OCA-009*
+- Akiko Fukai et al. (Kyoto Costume Institute) — Future Beauty: 30 Years of Japanese Fashion (2010) — *EST-010*
+- Alan Flusser — Dressing the Man (2002), capítulo sobre combinación de estampados — *COL-005*
+- Alan Flusser — Dressing the Man (2002), capítulo sobre el rostro y el cuello de camisa — *CUE-006*
+- Alan Flusser — Dressing the Man (2002), capítulos sobre color y complexión — *FUN-006*
+- Alan Flusser — Dressing the Man (2002): postura y caída de la americana — *ASE-009*
+- Alan Flusser — Dressing the Man (2002): rostro, proporción y peinado — *ASE-001*
+- Alan Flusser — Dressing the Man (2002): teoría del contraste personal — *CUE-007*
+- Alan Paine — What does gauge refer to? https://alan-paine-faqs.gorgias.help/en-US/what-does-gauge-refer-to-4940580 — *CAS-006*
+- Albert H. Munsell — A Color Notation (1905): tono, valor y croma — *CUE-007*
+- Albert H. Munsell — A Color Notation (1905); sistema Munsell de tono, valor y croma — *COL-001*
+- All About Vision — How can I tell if my eyeglass frames fit? https://www.allaboutvision.com/eyewear/eyeglasses/fit/right-frames-size/ — *ACC-004*
+- All About Vision — What is my face shape? https://www.allaboutvision.com/eyewear/eyeglasses/what-is-my-face-shape/ — *ACC-004*
+- Allen Edmonds — Belts. https://www.allenedmonds.com/accessories/belts/ — *ACC-002*
+- Allen Edmonds — Shoe trees. https://www.allenedmonds.com/shoe-care/shoe-trees — *CAL-014*
+- Alpha Industries — The MA-1. https://www.alphaindustries.eu/editorial/the-ma-1 — *EXT-010*
+- American Academy of Dermatology — 6 razor bump prevention tips from dermatologists. https://www.aad.org/public/everyday-care/skin-care-basics/hair/razor-bump-prevention — *ASE-003*
+- American Academy of Dermatology — Hair care tips / Tips for healthy hair. https://www.aad.org — *ASE-001*
+- American Academy of Dermatology — Hair loss: who gets and causes; diagnosis and treatment. https://www.aad.org/public/diseases/hair-loss — *ASE-007*
+- American Academy of Dermatology — How to prevent razor bumps / razor bump remedies. https://www.aad.org/public/everyday-care/skin-care-basics/hair/razor-bump-prevention — *ASE-002*
+- American Academy of Dermatology — How to shave / Tips for men: how to shave. https://www.aad.org/public/everyday-care/skin-care-basics/hair/how-to-shave — *ASE-003*
+- American Academy of Dermatology — How to trim your nails / Nail care tips; Hyperhidrosis: diagnosis and treatment. https://www.aad.org — *ASE-006*
+- American Academy of Dermatology — información sobre canas y tintes capilares. https://www.aad.org — *ASE-008*
+- American Academy of Dermatology — Sunscreen FAQs / How to select a sunscreen. https://www.aad.org — *ASE-004*
+- Amundsen Sports — Men's shorts length guide. https://amundsen.com/en-GB/highlights/field-short-lenght-guide — *CAS-009*
+- Amy J. C. Cuddy, S. Jack Schultz, Nathan E. Fosse — P-curving a more comprehensive body of research on postural feedback reveals clear evidential value for power-posing effects, Psychological Science 29(4) (2018) — *ASE-009*
+- Amy Vanderbilt — Complete Book of Etiquette (1952) — *MIT-004*
+- Analog Shift — A Brief History of the A-2 Flight Jacket (mención de la M-65). https://www.analogshift.com/blogs/transmissions/a-2-flight-jacket-history — *EXT-008*
+- Analog Shift — A Brief History of the A-2 Flight Jacket. https://www.analogshift.com/blogs/transmissions/a-2-flight-jacket-history — *EXT-009*
+- Analog Shift — A Brief History of the Sweatshirt. https://analogshift.com/blogs/transmissions/sweatshirt-history — *CAS-007*
+- Analog Shift — The Chore Coat: A Brief History of a Workwear Classic. https://www.analogshift.com/blogs/transmissions/chore-coat-history — *CAS-008*
+- Andalucía.org — Colección del Traje Corto Andaluz (Jerez de la Frontera) — *EST-014*
+- Andritz — Man-made cellulosic fiber technology Q&A. https://www.andritz.com/products-en/products/nonwoven-textile/man-made-cellulosic-fibers/man-made-cellulosic-fiber-technology-q-a — *TEJ-010*
+- Anne Hollander — Sex and Suits: The Evolution of Modern Dress (1994) — *EST-016*
+- Antoni Gutiérrez-Rubí — Striptease de corbatas, sobre el gesto del ministro Miguel Sebastián (fecha y texto no verificados) — *OCA-004*
+- ASHRAE Standard 55 — Thermal environmental conditions for human occupancy (tablas de aislamiento de prendas) — *FUN-009*
+- B. H. Heath y J. E. L. Carter — A modified somatotype method, American Journal of Physical Anthropology 27 (1967) — *CUE-001*
+- Baldassare Castiglione — Il libro del Cortegiano (1528), libro I, cap. 26 — *FUN-007*
+- Barbour — Our history. https://www.barbour.com/gb/our-history — *EXT-008*
+- Barnaby J. Dixson, Robert C. Brooks — The role of facial hair in women's perceptions of men's attractiveness, health, masculinity and parenting abilities, Evolution and Human Behavior 34(3) (2013) — *ASE-002*
+- Bespoke Post — Where to spend and where to save in your wardrobe — *ARM-003*
+- Bespoke Unit — Color theory for men: contrast. https://bespokeunit.com/color/contrast/ — *COL-001*
+- Bespoke Unit — Color theory: contrast. https://bespokeunit.com/color/contrast/ — *COL-008*
+- Bespoke Unit — serie de teoría del color para hombres. https://bespokeunit.com/color/contrast/ — *COL-003*
+- Bespoke Unit — Shoe construction. https://bespokeunit.com/shoes/construction/ — *CAL-009*
+- Black Lapel — Surgeon's cuffs and kissing buttons. https://blacklapel.com/thecompass/ask-a-black-lapel-stylist-surgeons-cuffs-and-kissing-buttons/ — *MIT-011*
+- Black Tie Guide (Peter Marshall) — accesorios de etiqueta. https://www.blacktieguide.com — *ACC-001*
+- Black Tie Guide (Peter Marshall) — calzado de esmoquin. https://www.blacktieguide.com — *CAL-005*
+- Black Tie Guide (Peter Marshall) — prendas exteriores de etiqueta. https://www.blacktieguide.com — *ACC-006*
+- Black Tie Guide — Peter Marshall. https://www.blacktieguide.com — *TEJ-009*
+- bluesign — bluesign APPROVED & bluesign PRODUCT. https://www.bluesign.com/consumer.html — *TEJ-015*
+- Bo Zhang et al. — Hyperactivation of sympathetic nerves drives depletion of melanocyte stem cells, Nature 577 (2020) — *ASE-008*
+- Bob's Watches — Watch sizes. https://www.bobswatches.com/rolex-blog/editorial/watch-sizes.html — *ACC-001*
+- Bobby Hundreds — This Is Not a T-Shirt: A Brand, a Culture, a Community (2019) — *EST-008*
+- Bodas.net — Cómo vestir para una boda: hombre invitado (bodas.net/articulos/como-vestir-para-una-boda-hombre-invitado--c8041) — *OCA-001*
+- Bodas.net — Protocolo de bodas actual. https://www.bodas.net/articulos/protocolo-de-boda--c260 — *COL-010*
+- Bodas.net — Todos los tipos de traje de novio; Novio con esmoquin: consejos — *OCA-002*
+- BOE — Real Decreto 2099/1983, de 4 de agosto, por el que se aprueba el Ordenamiento General de Precedencias en el Estado. https://www.boe.es/eli/es/rd/1983/08/04/2099 — *COD-010*
+- Bonnie English — Japanese Fashion Designers (2011) — *EST-007*
+- Bonnie English — Japanese Fashion Designers: The Work and Influence of Issey Miyake, Yohji Yamamoto and Rei Kawakubo (2011) — *EST-010*
+- Britannica — Charles Macintosh. https://www.britannica.com/biography/Charles-Macintosh — *EXT-005*
+- Britannica — Raglan sleeve. https://www.britannica.com/topic/raglan-sleeve — *EXT-005*
+- Brooks Brothers — páginas del No. 1 Sack Suit (fecha 1901) y Wikipedia — Brooks Brothers (fecha 1895). https://en.wikipedia.org/wiki/Brooks_Brothers — *FUN-008*
+- Bulletin of Entomological Research (1951) — Effects of high temperature on the common clothes moth, Tineola bisselliella. https://resolve.cambridge.org/core/journals/bulletin-of-entomological-research/article/abs/effects-of-high-temperature-on-the-common-clothes-moth-tineola-bisselliella-humm/BFD818F0D1347B0D5B1A21270B98AABA — *CUI-006*
+- Bureau Veritas — Update: ISO 3758:2023. https://www.cps.bureauveritas.com/newsroom/update-iso-37582023-textiles-care-labelling-code-using-symbols — *CUI-001*
+- Burns, Fox, Greenstein, Olbricht y Montgomery — An old task in new clothes: a preregistered direct replication attempt of enclothed cognition effects on Stroop performance, JESP 83, 150–156 (2019). https://doi.org/10.1016/j.jesp.2018.10.001 — *FUN-011*
+- Carles Manera (dir.) — Las islas del calzado. Historia económica del sector en Baleares (1200-2000) (2002) — *CAL-009*
+- Carole Jackson — Color Me Beautiful (1980) — *CUE-007*
+- Cashmere and Camel Hair Manufacturers Institute (CCMI) — Definition of cashmere. https://cashmere.org/definition-cashmere-wool.php — *TEJ-008*
+- CBC — Bold style trends from Men's Fashion Week Spring 2026 (2025) — *EST-015*
+- CEN — EN 13402-1 a -4, Size designation of clothes (partes 1–3 ed. 2001–2017; parte 4, 2021) — *CUE-005*
+- CEN — EN 13402-1 Size designation of clothes. Terms, definitions and body measurement procedure (2001) — *CUE-010*
+- CEN — EN 13402-3 (2017): definición de drop — *CUE-009*
+- CEN — EN 13402-3 (2017): escalones de estatura — *CUE-003*
+- CEN — EN 13402-3 Size designation of clothes. Measurements and intervals (ed. 2017) — *CUE-001*
+- Charlotte Tilbury / Ulta / The Perfume Shop — guías divulgativas de concentraciones (consultadas 2026-11), con rangos discrepantes — *ASE-005*
+- CIE — iluminantes normalizados D65 (luz día, 6504 K), D50 y serie F; CIE 13.3 (índice de reproducción cromática) — *COL-007*
+- Clad Safety — Safety Standards Foul Weather EN 343 (2022). https://cladsafety.co.uk/wp-content/uploads/2022/11/Safety-Standards-Foul-Weather-EN-343-Website.pdf — *EXT-005*
+- College of Optometrists — Tints and driving. https://www.college-optometrists.org/clinical-guidance/guidance/knowledge,-skills-and-performance/examining-patients-who-drive/tints-and-driving — *ACC-004*
+- Colorado State University Extension — Ask Extension: congelación de prendas infestadas (72 h). https://ask.extension.org/kb/faq.php?id=871285 — *CUI-006*
+- Columbia School of Social Work — What to wear on camera (PDF). https://socialwork.columbia.edu/sites/default/files/content/PDFs/What-to-wear-on-camera.pdf — *COL-008*
+- Comisión Europea — Recomendación 2006/647/CE sobre la eficacia de los productos de protección solar — *ASE-004*
+- Comunidad de Madrid — Productos de segunda mano, garantías (comunidad.madrid/consumo) — *ARM-006*
+- Comunidad Zoom — hilo 'Striped Shirt is Vibrating' (community.zoom.com), testimonios de usuarios — *OCA-011*
+- Consumer (Eroski) — Trajes a medida (s. f.) — *AJU-007*
+- Country Life — 125 years of Barbour jackets. https://www.countrylife.co.uk/promoted/125-years-barbour-jackets-theyve-won-everyone-queen-alexa-chung-199508 — *EXT-008*
+- Country Life — Vested interest: The history of the waistcoat. https://www.countrylife.co.uk/luxury/style/vested-interest-the-history-of-the-waistcoat — *MIT-001*
+- Courtney Carver — Project 333 (2010) y Project 333: The Minimalist Fashion Challenge (2020) — *ARM-001*
+- Courtney Carver — Project 333 (2020) — *ARM-008*
+- Crockett & Jones y Edward Green — guías de tallaje y hormas (consulta 2026) — *AJU-010*
+- Crockett & Jones, Edward Green — catálogos de colores de piel — *COL-009*
+- Cronoshare — ¿Cuánto cuesta un traje a medida? (consulta 2026-11) — *AJU-007*
+- Culture Trip — The dos and don'ts of visiting mosques in the Middle East. https://theculturetrip.com/middle-east/articles/etiquette-101-the-dos-and-donts-of-visiting-mosques-in-the-middle-east — *COD-011*
+- Dana R. Carney, Amy J. C. Cuddy, Andy J. Yap — Power posing: brief nonverbal displays affect neuroendocrine levels and risk tolerance, Psychological Science 21(10) (2010) — *ASE-009*
+- Dappered — Skimp or spend? A buying guide for men's suits, blazers, jeans, watches and more (2021, actualizado 2024) — *ARM-003*
+- Datacolor — What is metamerism? https://www.datacolor.com/business-solutions/blog/what-is-metamerism/ — *COL-007*
+- David Kuchta — The Three-Piece Suit and Modern Masculinity: England, 1550–1850 (2002) — *EST-016*
+- Debrett's — Good morning: variations on the traditional wedding suit (business.debretts.com) — *OCA-002*
+- Debrett's — guías de dress codes. https://www.debretts.com — *FUN-003*
+- Debrett's — Guide for the Modern Gentleman (2008) — *MIT-009*
+- Debrett's — Know your dress codes (business attire). https://business.debretts.com/know-your-dress-codes — *COD-006*
+- Debrett's — Know your dress codes (business.debretts.com): cocktail — *OCA-010*
+- Debrett's — Know your dress codes (business.debretts.com); morning dress no se indica para actos que empiezan después de las 18:00 — *OCA-001*
+- Debrett's — Know your dress codes (morning dress en funerales). https://business.debretts.com/know-your-dress-codes — *COD-012*
+- Debrett's — Know your dress codes. https://business.debretts.com/know-your-dress-codes — *COD-011*
+- Debrett's — Know your dress codes: Black tie. https://business.debretts.com/know-your-dress-codes — *COD-003*
+- Debrett's — Know your dress codes: Casual. https://business.debretts.com/know-your-dress-codes — *COD-009*
+- Debrett's — Know your dress codes: Lounge suit. https://business.debretts.com/know-your-dress-codes — *COD-005*
+- Debrett's — Know your dress codes: Morning dress. https://business.debretts.com/know-your-dress-codes — *COD-004*
+- Debrett's — Know your dress codes: Smart casual. https://business.debretts.com/know-your-dress-codes — *COD-008*
+- Debrett's — Know your dress codes: White tie. https://business.debretts.com/know-your-dress-codes — *COD-002*
+- Deia — Fotoprotección todos los días, explican los dermatólogos (13-12-2025) — *ASE-004*
+- Denim Hunters — Denim Weight: What Is 'Ounce' and Why Does It Matter? https://denimhunters.com/denim-wiki/denim-explained/denim-weight/ — *CAS-001*
+- Dents — Men's glove sizing. https://www.dentsgloves.com/pages/product-sizing-mens-gloves — *ACC-006*
+- Derek Guy — Die Workwear / Put This On, artículos sobre construir un estilo propio. https://dieworkwear.com — *FUN-010*
+- Derek Guy — Put This On / Die Workwear, artículos sobre coherencia estética. https://putthison.com — *FUN-004*
+- Deyan Sudjic — The Language of Things (2008) — *EST-007*
+- Die, Workwear! (Derek Guy) — ensayos sobre ropa de trabajo y heritage. https://dieworkwear.com — *EST-005*
+- Die, Workwear! — artículos sobre M-65 y fatigues. https://dieworkwear.com — *EST-006*
+- Diez Minutos — Los Reyes en la Pascua Militar 2021 (Sánchez y Grande-Marlaska de chaqué). https://www.diezminutos.es/familia-real/monarquia-espanola/a35137791/reyes-pascua-militar-2021/ — *COD-010*
+- Directiva (UE) 2019/2161 (Ómnibus), art. 6 bis de la Directiva 98/6/CE: anuncio de reducción de precio referido al precio más bajo de los 30 días anteriores — *ARM-007*
+- Directiva (UE) 2024/825 — Empoderamiento de los consumidores para la transición ecológica — *TEJ-015*
+- Directiva 2011/83/UE sobre los derechos de los consumidores (desistimiento de 14 días) — *ARM-006*
+- Drake's — G. Bruce Boyer on the Peacoat. https://www.drakes.com/editorial/g-bruce-boyer-on-the-peacoat — *EXT-006*
+- Drake's — G. Bruce Boyer on the Raglan Coat. https://us.drakes.com/blogs/news/the-balmacaan-coat — *EXT-005*
+- Drake's — Piqué Performance: A Guide to the Polo Shirt. https://us.drakes.com/blogs/news/pique-performance-a-guide-to-the-polo-shirt — *CAS-004*
+- Drake's — The Story of the Chino. https://www.drakes.com/editorial/the-story-of-the-chino — *CAS-002*
+- Druni Blog — ¿Cómo vestir para una comunión un hombre? (druni.es) — *OCA-012*
+- Effortless Gent — How Long (Or Short) Should Men's Shorts Be? https://effortlessgent.com/?p=47506 — *CAS-009*
+- El Corte Inglés (Bodamas) — ¿Cómo debes vestir el chaqué? https://www.elcorteingles.es/bodamas/como-debes-vestir-el-chaque/ — *SAS-018*
+- El Corte Inglés — La guía definitiva para acertar con el dress code de un evento (elcorteingles.es) — *OCA-012*
+- El Corte Inglés, Bodamas — Boda de mañana o tarde. Así serás el invitado perfecto; Normas del buen vestir (elcorteingles.es) — *OCA-001*
+- El Corte Inglés, Bodamas — El padrino de boda. ¿Cuál es el dress code a seguir?; Normas del buen vestir — *OCA-002*
+- El Debate — Lo que debes hacer y no debes decir en un tanatorio (2026). https://www.eldebate.com/familia/20260508/debes-hacer-no-debes-decir-tanatorio_415372.html — *COD-012*
+- El Debate — Petro rechaza usar frac en la cena de gala de los Reyes (03-05-2023). https://www.eldebate.com/espana/20230503/petro-rechaza-usar-frac-cena-gala-reyes-porque-le-parece-prenda-elitista_112199.html — *SAS-019*
+- El Debate — sastrería madrileña de corte militar fundada en 1910 cumple un siglo (17-06-2026) — *EST-014*
+- eldiario.es (Consumo Claro) — Una dermatóloga [GEDET-AEDV] explica cómo proteger del sol el cuero cabelludo (2025) — *ASE-004*
+- Elizabeth Semmelhack — Out of the Box: The Rise of Sneaker Culture (2015) — *EST-008*
+- Elliot y Niesta — Romantic red: red enhances men's attraction to women, Journal of Personality and Social Psychology 95(5) (2008) — *FUN-011*
+- Elliot, A. J. et al. — Red, rank, and romance in women viewing men. Journal of Experimental Psychology: General 139(3), 399–417 (2010) — *OCA-005*
+- Elliot, Niesta Kayser, Greitemeyer, Lichtenfeld, Gramzow, Maier y Liu — Red, rank, and romance in women viewing men, Journal of Experimental Psychology: General 139(3), 399–417 (2010) — *FUN-011*
+- Emerica — Cupsole vs vulcanized skate shoes (2026). https://emerica.com/blogs/news/cupsole-vs-vulcanized-skate-shoes-which-is-better-in-2026 — *CAL-008*
+- Emi K. Nishimura et al. — Mechanisms of hair graying: incomplete melanocyte stem cell maintenance in the niche, Science 307(5710) (2005) — *ASE-008*
+- EN 343:2019 — Ropa de protección contra la lluvia — *TEJ-010*
+- Encyclopaedia Britannica — The perception of colour (efecto Purkinje). https://www.britannica.com/science/color/The-perception-of-colour — *COL-007*
+- English Heritage — Clothes moth prevention and control guideline (−18 °C durante dos semanas). https://www.english-heritage.org.uk/siteassets/home/learn/conservation/collections-advice--guidance/clothes-moth-prevention-and-control-guideline.pdf — *CUI-006*
+- Enzo Custom — Cloth Weight by Season. https://enzocustom.com/journal/cloth-weight-by-season — *TEJ-011*
+- Enzo Custom — Cloth Weight by Season: Building a Year-Round Wardrobe. https://enzocustom.com/journal/cloth-weight-by-season — *SAS-005*
+- Errolson Hugh / Acronym — entrevistas sobre techwear (Hypebeast, Highsnobiety) — *EST-009*
+- esMadrid (Ayuntamiento de Madrid) — Capas Seseña. https://www.esmadrid.com — *EST-014*
+- Euronews Travel — Ryanair is increasing its free cabin bag allowance (3 julio 2025) — *OCA-006*
+- Euronews — What's behind the quiet luxury trend and how long can it last? (28-06-2023) — *EST-013*
+- Eva Ranehill et al. — Assessing the robustness of power posing: no effect on hormones and risk tolerance in a large sample of men and women, Psychological Science 26(5) (2015) — *ASE-009*
+- Fabricantes de cortapelos (escala estándar de peines guía en 1/8 de pulgada ≈ 3 mm) — *ASE-001*
+- Farfetch Style Guide — Cómo vestirse para una comunión (2021) — *OCA-012*
+- Farid Chenoune — A History of Men's Fashion (1993) — *EST-016*
+- Farmers' Almanac — Why You Cannot Wear White After Labor Day. https://www.farmersalmanac.com/wear-white-after-labor-day-35950 — *MIT-010*
+- Fashionbeans — A Levi's Denim Jacket History. https://www.fashionbeans.com/article/levis-denim-jacket-history/ — *EXT-010*
+- Fashionbeans — Buying A Suit Guide, Part 4: Trouser Style (2015). https://www.fashionbeans.com/2015/buying-a-suit-guide-part-4-trouser-style/ — *SAS-010*
+- Find Your Boots — Boot Camp: guía de pieles y suelas. https://findyourboots.squarespace.com — *CAL-007*
+- FIT Museum — Biker Jackets: Schott Perfecto jacket (2014). https://exhibitions.fitnyc.edu/biker-jackets/2014/02/24/schott-perfecto-jacket/ — *EXT-009*
+- FIT Museum — Ivy Style exhibition: Polo coat. https://sites.fitnyc.edu/depts/museum/Ivy_Style/exhibition/polo-coat.html — *EXT-003*
+- Fortune — Stealth wealth clothing and Succession (24-07-2023). https://fortune.com/2023/07/24/stealth-wealth-clothing-succession/ — *EST-013*
+- Fox Umbrellas — Product lines and umbrella specifications. https://foxumbrellas.com/blogs/news-and-information/product-lines — *ACC-010*
+- Gear Patrol — How a near-death experience changed outdoor gear forever (Eddie Bauer Skyliner). https://gearpatrol.com/2015/10/28/how-a-near-death-experience-changed-outdoor-gear-forever/ — *EXT-007*
+- Gear Patrol — How a near-death experience changed outdoor gear forever. https://gearpatrol.com/2015/10/28/how-a-near-death-experience-changed-outdoor-gear-forever/ — *EXT-011*
+- Gentleman's Gazette (Black Tie Guide) — Late Victorian Dinner Jacket Debut, 1880s. https://www.gentlemansgazette.com/tuxedo-black-tie-guide/black-tie-tuxedo-history/dinner-jacket-debut/ — *COD-003*
+- Gentleman's Gazette — Black Tie Guide: patent oxfords y pumps (calcetín de seda negro). https://gentlemansgazette.com/tuxedo-black-tie-guide/classic/black-patent-oxfords-pumps — *ACC-003*
+- Gentleman's Gazette — Black Tie Guide: patent oxfords y pumps. https://gentlemansgazette.com/tuxedo-black-tie-guide/classic/black-patent-oxfords-pumps — *CAL-002*
+- Gentleman's Gazette — Black Tie Tuxedo Mistakes. https://www.gentlemansgazette.com/black-tie-tuxedo-mistakes/ — *SAS-017*
+- Gentleman's Gazette — Bow Tie Guide. https://www.gentlemansgazette.com/bow-tie-guide/ — *SAS-013*
+- Gentleman's Gazette — Classic Tuxedo: Dinner Suits. https://www.gentlemansgazette.com/tuxedo-black-tie-guide/classic/tuxedo-dinner-suit/ — *SAS-017*
+- Gentleman's Gazette — Dressing well needn't cost a fortune (gentlemansgazette.com) — *ARM-010*
+- Gentleman's Gazette — Essential socks for men. https://www.gentlemansgazette.com/essential-socks-for-men/ — *ACC-003*
+- Gentleman's Gazette — Full Dress Vest: White Tie Waistcoat. https://www.gentlemansgazette.com/tuxedo-black-tie-guide/white-tie-guide/full-dress-vest-white/ — *SAS-019*
+- Gentleman's Gazette — Gentleman's Guide to the Ulster Overcoat. https://www.gentlemansgazette.com/ulster/ — *EXT-003*
+- Gentleman's Gazette — guía de combinación de zapatos y trajes. https://www.gentlemansgazette.com — *COL-009*
+- Gentleman's Gazette — guía para combinar patrones. https://www.gentlemansgazette.com — *COL-005*
+- Gentleman's Gazette — guías de combinación de colores. https://www.gentlemansgazette.com — *COL-003*
+- Gentleman's Gazette — guías de corbata y nudos. https://www.gentlemansgazette.com — *MIT-007*
+- Gentleman's Gazette — guías de estilo por edades. https://www.gentlemansgazette.com — *FUN-012*
+- Gentleman's Gazette — guías de estilos de barba — *ASE-002*
+- Gentleman's Gazette — guías de patrones de tejido. https://www.gentlemansgazette.com — *COL-006*
+- Gentleman's Gazette — guías sobre cortes clásicos y cómo hablar con el barbero — *ASE-001*
+- Gentleman's Gazette — History of the suit: the evolution of menswear from 1800 to today. https://www.gentlemansgazette.com/evolution-of-menswear-suits/ — *FUN-008*
+- Gentleman's Gazette — How to Fold a Pocket Square: 8 Stylish Folds. https://www.gentlemansgazette.com/how-to-fold-a-pocket-square/ — *SAS-014*
+- Gentleman's Gazette — Lounge Suit: Dress Code. https://www.gentlemansgazette.com/lounge-suit-dress-code/ — *COD-005*
+- Gentleman's Gazette — Men's Waistcoats & Vests: What They Are & How to Wear Them. https://gentlemansgazette.com/men-waistcoats-odd-vest-how-to-wear — *SAS-015*
+- Gentleman's Gazette — Morning Wear Guide (gentlemansgazette.com) — *OCA-002*
+- Gentleman's Gazette — Morning Wear Guide. https://www.gentlemansgazette.com/morning-wear-guide/ — *SAS-018*
+- Gentleman's Gazette — Peacoat Guide. https://www.gentlemansgazette.com/peacoat-guide/ — *EXT-006*
+- Gentleman's Gazette — Quilted Jackets Guide: How to Buy, History. https://www.gentlemansgazette.com/quilted-jackets-guide-buy-history/ — *EXT-011*
+- Gentleman's Gazette — Shirt Collar Styles for Men (alfiler de cuello). https://www.gentlemansgazette.com/shirt-collar-styles-a-complete-guide/ — *SAS-016*
+- Gentleman's Gazette — Shirt Collar Styles for Men. https://www.gentlemansgazette.com/shirt-collar-styles-a-complete-guide/ — *SAS-012*
+- Gentleman's Gazette — Shirt Collar Styles for Men: The Complete Guide. https://www.gentlemansgazette.com/shirt-collar-styles-a-complete-guide/ — *SAS-007*
+- Gentleman's Gazette — Should you buy it? The simple equation: cost per wear (gentlemansgazette.com/cost-per-wear-equation) — *ARM-002*
+- Gentleman's Gazette — Should You Wear Cuffed Pants? A Guide to Trouser Cuffs. https://www.gentlemansgazette.com/should-you-wear-cuffed-pants/ — *AJU-003*
+- Gentleman's Gazette — Sleeve Length Guide for Suits, Jackets and Shirts. https://gentlemansgazette.com/sleeve-length-suits-shirts-jackets/ — *MIT-006*
+- Gentleman's Gazette — Suit Jackets, Sport Coats, and Blazers: What's the Difference? https://www.gentlemansgazette.com/suit-jackets-sport-coats-and-blazers-whats-the-difference/ — *SAS-006*
+- Gentleman's Gazette — Surgeon's Cuffs: Myth or Magic? https://www.gentlemansgazette.com/surgeons-cuffs-guide/ — *MIT-011*
+- Gentleman's Gazette — The Anatomy of a Suit Jacket (anchura solapa–corbata). https://www.gentlemansgazette.com/the-anatomy-suit-jacket/ — *SAS-011*
+- Gentleman's Gazette — The Anatomy of a Suit Jacket: A Comprehensive Vocabulary. https://www.gentlemansgazette.com/the-anatomy-suit-jacket/ — *SAS-001*
+- Gentleman's Gazette — The Chesterfield Overcoat. https://www.gentlemansgazette.com/chesterfield-overcoat/ — *EXT-002*
+- Gentleman's Gazette — The Harrington Jacket Guide. https://www.gentlemansgazette.com/harrington-jacket-baracuta-g9-guide/ — *EXT-010*
+- Gentleman's Gazette — Vintage shopping tips from Hornets in London (gentlemansgazette.com) — *ARM-006*
+- Gentleman's Gazette — What Makes Neapolitan Tailoring Special? Tailors Explain Naples Style — *EST-003*
+- Gentleman's Gazette — White Tie DOs & DON'Ts. https://www.gentlemansgazette.com/white-tie-do-dont-dress-code-met-ball/ — *SAS-019*
+- Gentleman's Gazette — White Tie Evening Tailcoat & Trousers. https://www.gentlemansgazette.com/tuxedo-black-tie-guide/white-tie-guide/white-tie-tailcoat-trousers/ — *SAS-019*
+- Gentleman's Gazette — White Tie Guide. https://www.gentlemansgazette.com/tuxedo-black-tie-guide/white-tie-guide/ — *COD-002*
+- Gentleman's Gazette — Why Did Men Start Wearing Suspenders (Braces)? https://www.gentlemansgazette.com/why-men-wear-suspenders/ — *SAS-020*
+- Gentleman's Gazette — Why is shell cordovan leather so expensive? https://www.gentlemansgazette.com/cordovan-leather-expensive/ — *CAL-010*
+- Gentleman's Gazette — Worsted Wool Suiting Guide (tejidos de alta torsión para viaje). https://www.gentlemansgazette.com/worsted-wool-suiting-guide/ — *CUI-010*
+- GINETEX / Norsk Industri — resumen de símbolos. https://www.norskindustri.no/siteassets/dokumenter/annet/ginetex-kort-oversikt-over-symbolene.pdf — *CUI-001*
+- GINETEX — Textile care symbols (folleto). https://www.ginetex.net/userfiles/files/Textile_care_symbols_en.pdf — *CUI-001*
+- GINETEX — Textile care symbols. https://www.ginetex.net/userfiles/files/Textile_care_symbols_en.pdf — *CUI-004*
+- Gore-Tex — información técnica sobre membranas y garantía. https://www.gore-tex.com — *EST-009*
+- GOTS — Label grades. https://global-standard.org/certification-and-labelling/labelling/label-grades — *TEJ-015*
+- Graham Marsh y Paul Trynka — Denim: From Cowboys to Catwalks (2002) — *TEJ-006*
+- Graham Marsh, Paul Trynka — Denim: From Cowboys to Catwalks (2002) — *EST-005*
+- Grailed — Born to Ride: A Brief History of the Motorcycle Jacket. https://www.grailed.com/drycleanonly/history-of-motorcycle-jacket — *EXT-009*
+- Gupta AK et al. — Review of oral minoxidil as treatment of hair disorders: in search of the perfect dose, J Eur Acad Dermatol Venereol (2021). PubMed 33660357 — *ASE-007*
+- Hajo Adam y Adam D. Galinsky — Enclothed cognition, Journal of Experimental Social Psychology 48(4), 918–925 (2012) — *FUN-011*
+- Hardy Amies — ABC of Men's Fashion (1964) (no verificado) — *MIT-001*
+- Harper's Bazaar India — What Milan and Paris fashion weeks reveal about menswear in 2026 (09-03-2026) — *EST-015*
+- Harris Tweed Act 1993 (Reino Unido, ley local del Parlamento) — *TEJ-004*
+- Heddels — artículos sobre denim de Okayama/Kojima. https://www.heddels.com — *EST-010*
+- Heddels — guía de construcción de zapatillas. https://www.heddels.com — *CAL-008*
+- Heddels — guía del chore coat. https://www.heddels.com/?p=145107 — *CAS-008*
+- Heddels — guías de botas y construcción. https://www.heddels.com — *CAL-007*
+- Heddels — guías de prendas de invierno y waxed cotton (heddels.com) — *OCA-008*
+- Heddels — guías sobre denim crudo, selvedge y botas de trabajo. https://www.heddels.com — *EST-005*
+- Heddels — The complete guide to understanding raw denim weights. https://heddels-newsletter.beehiiv.com/p/june-9-the-complete-guide-to-understanding-raw-denim-weights — *CAS-001*
+- Henry Poole & Co — historia del dinner jacket (ledgers). https://henrypoole.com — *COD-003*
+- Herbert Sinner (Henkel) — formulación del círculo de Sinner (1959): factores químico, térmico, mecánico y temporal del lavado — *CUI-002*
+- Herring Shoes — Shoe care guide. https://www.herringshoes.co.uk/shoe-care-guide — *CAL-014*
+- Herring Shoes — What shoe leather should I choose (2023). https://journal.herringshoes.co.uk/2023/what-shoe-leather-should-i-choose/ — *CAL-010*
+- Highsnobiety y Hypebeast — artículos sobre gorpcore (2020–2025) — *EST-009*
+- Highsnobiety — artículos críticos sobre quiet luxury (2023). https://www.highsnobiety.com/p/quiet-luxury-trend/ — *EST-013*
+- Hiroshi Ashida, Kana Kuraguchi y Kiyofumi Miyoshi — Helmholtz illusion makes you look fit only when you are already fit, but not for everyone, i-Perception 4(5), 347–351 (2013). https://doi.org/10.1068/i0595rep — *FUN-002*
+- Hirsch, Markström, Patterson, Sandberg y Vejdemo-Johansson — More ties than we thought. PeerJ Computer Science 1:e2 (2015). https://peerj.com/articles/cs-2 — *SAS-012*
+- History.com — Levi Strauss and Jacob Davis receive patent for blue jeans (patente US 139,121, 20-5-1873). https://www.history.com/this-day-in-history/may-20/levi-strauss-and-jacob-davis-receive-patent-for-blue-jeans — *CAS-001*
+- Hohenstein — FAQ OEKO-TEX STANDARD 100. https://www.hohenstein.de/en-us/oeko-tex/output-control/standard-100/faq — *TEJ-015*
+- Hola.com — Consejos de estilista: cómo vestir para una entrevista de trabajo según tu sector (2018) — *OCA-003*
+- Holland & Sherry, Vitale Barberis Canonico — muestrarios y glosarios de tejidos. https://www.vbc1663.com — *COL-006*
+- Horton, Adam y Galinsky — Evaluating the evidence for enclothed cognition: z-curve and meta-analyses, Personality and Social Psychology Bulletin 51(2), 203–221 (2025; en línea 2023). https://doi.org/10.1177/01461672231182478 — *FUN-011*
+- Howlett, N., Pine, K., Orakçıoğlu, I. y Fletcher, B. — The influence of clothing on first impressions: Rapid and positive responses to minor changes in male attire. Journal of Fashion Marketing and Management 17(1), 38–48 (2013). https://doi.org/10.1108/13612021311305128 — *OCA-003*
+- Howlett, Pine, Orakçıoğlu y Fletcher — The influence of clothing on first impressions: rapid and positive responses to minor changes in male attire, Journal of Fashion Marketing and Management 17(1), 38–48 (2013). https://doi.org/10.1108/13612021311305128 — *FUN-011*
+- Hypebeast / Highsnobiety — informes y artículos sobre el sector (2018–2026) — *EST-008*
+- Hypebeast — Is Quiet Luxury Sucking the Fun Out of Fashion? (mayo 2023) — *EST-013*
+- Hypebeast — The SS26 Fashion Trends We're Looking Forward to & Why (07-01-2026). https://hypebeast.com/2026/1/ss26-spring-summer-2026-mens-menswear-trends-list-info — *EST-015*
+- I. D. Stephen, M. J. Law Smith, M. R. Stirrat y D. I. Perrett — Facial skin coloration affects perceived health of human faces, International Journal of Primatology 30 (2009) — *CUE-007*
+- IDFL — Fill power questions and answers; New EN fill power standard (2019). https://idfl.com/2019/04/19/volume-2019-3-new-en-fill-power-standard/ — *EXT-007*
+- IFEMA — Cómo saber la talla de anillo. https://www.ifema.es/noticias/moda/como-saber-talla-anillo — *ACC-009*
+- IFRA — International Fragrance Association, estándares de seguridad. https://ifrafragrance.org — *ASE-005*
+- Illes Balears Turismo — Avarca de Menorca, producto artesano. https://illesbalears.travel/en/menorca/craft-product-avarca-de-menorca — *CAL-012*
+- Imogen Lamport — Inside Out Style, artículos sobre value contrast. https://insideoutstyleblog.com — *FUN-006*
+- Imperial War Museums — historia de la trinchera y la gabardina en la Primera Guerra Mundial. https://www.iwm.org.uk — *EST-006*
+- Indeed España — Preguntas sobre código de vestimenta en perfiles de empresa (es.indeed.com) — *OCA-004*
+- Inside Out Style — What exactly is medium-high value contrast? https://insideoutstyleblog.com/2016/04/what-exactly-is-medium-high-value-contrast.html — *COL-008*
+- Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) — fichas de riesgo químico de hipoclorito sódico. https://www.insst.es — *CUI-008*
+- International Hyperhidrosis Society — guías de antitranspirantes. https://www.sweathelp.org — *ASE-006*
+- ISO 11092 — Medición de la resistencia térmica y al vapor de agua (Ret) — *TEJ-010*
+- ISO 12312-1:2022 — Eye and face protection. Sunglasses and related eyewear. Part 1: Sunglasses for general use — *ACC-004*
+- ISO 18103:2015 — Superfine woven wool fabric labelling: Requirements for Super S code definition — *TEJ-002*
+- ISO 3758:2023 — Textiles — Care labelling code using symbols. https://www.iso.org/standard/74401.html — *CUI-001*
+- ISO 811 / EN 20811 — determinación de la resistencia a la penetración de agua (columna de agua) — *EST-009*
+- ISO 811 / EN 20811 — Determinación de la resistencia a la penetración de agua (ensayo de presión hidrostática) — *TEJ-010*
+- ISO 8653:2016 — Jewellery. Ring-sizes. Definition, measurement and designation (UNE-EN ISO 8653 en España) — *ACC-009*
+- ISO 9920:2007 — Ergonomics of the thermal environment: estimation of thermal insulation and water vapour resistance of a clothing ensemble — *FUN-009*
+- ISO — ISO 8559-1:2017 Size designation of clothes. Anthropometric definitions for body measurement — *CUE-010*
+- ISO — ISO 9407:2019 Shoe sizes. Mondopoint — *CUE-010*
+- ISO/IEC 7810:2019 — Identification cards. Physical characteristics (formato ID-1, 85,60 × 53,98 mm) — *ACC-008*
+- ITU-R BT.709 — coeficientes de luminancia (Y = 0,2126 R + 0,7152 G + 0,0722 B) — *COL-008*
+- ITU-T H.264 / ISO/IEC 14496-10 (perfiles Main y High, formato de croma 4:2:0) — *OCA-011*
+- Ivy Style (web de referencia). https://www.ivy-style.com — *EST-004*
+- Ivy Style — Brooks Brothers Celebrates 125 Years of the Button-Down Collar Shirt. https://www.ivy-style.com/?p=28213 — *CAS-005*
+- Ivy Style — Campus Style: The Polo Coat. https://www.ivy-style.com/campus-style-the-polo-coat.html — *EXT-003*
+- IWTO — Fabric Labelling Code of Practice (tabla Super S, reproducida por la FTC). https://www.ftc.gov/sites/default/files/filings/initiatives/418/130610woolcodepractice.pdf — *TEJ-002*
+- J. C. Flügel — The Psychology of Clothes (1930) — *EST-016*
+- J. Gordon Cook — Handbook of Textile Fibres, vol. I y II (Woodhead, 1984) — *TEJ-001*
+- James Sherwood — Savile Row: The Master Tailors of British Bespoke (2010) — *EST-002*
+- Jane Tynan — Military Dress and Men's Outdoor Leisurewear: Burberry's Trench Coat in First World War Britain. Journal of Design History 24(2), 2011 — *EXT-004*
+- Janine Willis, Alexander Todorov — First impressions: making up your mind after a 100-ms exposure to a face, Psychological Science 17(7) (2006) — *ASE-009*
+- Jesper Ingevaldsson — Historia: the Goodyear welted shoe construction (2021). https://shoegazing.com/2021/09/03/historia-the-goodyear-welted-shoe-construction/ — *CAL-009*
+- Jesper Ingevaldsson — Shoegazing, guías de construcción y suelas. https://shoegazing.com — *CAL-001*
+- Jesper Ingevaldsson — Shoegazing, tipos de suela para zapatos y botas (2022). https://shoegazing.com/2022/12/27/guide-sole-types-for-shoes-and-boots — *CAL-007*
+- Johannes Itten — Kunst der Farbe (1961) — *CUE-007*
+- Johannes Itten — Kunst der Farbe / The Art of Color (1961) — *COL-001*
+- Johannes Itten — The Art of Color (1961) — *COL-003*
+- John Lewis — What these common dress codes actually mean. https://www.johnlewis.com/content/fashion/men/common-mens-dress-codes — *COD-005*
+- John White Shoes — Dainite vs Commando. https://www.johnwhiteshoes.com/blogs/guides/dainite-vs-commando-a-definitive-guide-to-premium-all-weather-soles — *CAL-011*
+- Jon Savage — England's Dreaming (1991) — *EST-012*
+- José Antonio Miranda — sobre la industria del calzado en España, Revista de Historia Económica XII-2 (1994) — *CAL-009*
+- Josef Albers — Interaction of Color (1963) — *COL-001*
+- Kirby Allison — Full shoe care guide. https://help.kirbyallison.com/en-US/full-shoe-care-guide-501650 — *CAL-014*
+- Kiwi Sizing — Hat sizing: international size charts. https://kiwisizing.com/blog/size-conversion-charts-hats/ — *ACC-005*
+- Konica Minolta Sensing — Metamerism definition and why it matters. https://sensing.konicaminolta.us/us/blog/metamerism-meets-its-match/ — *COL-007*
+- Koutsoumpis, Economou y van der Burg — Helmholtz versus haute couture: how horizontal stripes and dark clothes make you look thinner, Perception 50(9), 741–756 (2021). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8438770/ — *FUN-002*
+- KPMG España — Preparación de la entrevista de trabajo (kpmg.com/es) — *OCA-003*
+- Kraus y Mendes — Sartorial symbols of social class elicit class-consistent behavioral and physiological responses: a dyadic approach, Journal of Experimental Psychology: General 143(6) (2014) — *FUN-011*
+- Kraus, M. W. y Mendes, W. B. — Sartorial symbols of social class elicit class-consistent behavioral and physiological responses: A dyadic approach. Journal of Experimental Psychology: General 143(6) (2014). https://doi.org/10.1037/xge0000023 — *OCA-003*
+- La Nación — 400 años de Molière y la maldición del color amarillo (2022). https://www.lanacion.com.ar/lifestyle/400-anos-de-moliere-hace-cuatro-siglos-nacian-la-ironia-francesa-y-la-maldicion-del-color-amarillo-nid14012022/ — *COL-010*
+- Lacoste — Lacoste heritage. https://www.lacoste.com/us/lacoste-heritage.html — *CAS-004*
+- Leather Working Group — protocolo de auditoría de curtidurías. https://www.leatherworkinggroup.com — *TEJ-014*
+- Lehmann, Elliot y Calin-Jageman — Meta-analysis of the effect of red on perceived attractiveness, Evolutionary Psychology 16(4) (2018) — *COL-010*
+- Levi Strauss & Co. — Dockers and the birth of casual Fridays (2014). https://www.levistrauss.com/2014/07/07/dockers-and-the-birth-of-casual-fridays — *COD-007*
+- Levi Strauss & Co. — historia de la patente del remache (1873) — *EST-005*
+- Levi Strauss & Co. — The History of Denim. https://www.levistrauss.com/our-story/the-history-of-denim/ — *CAS-001*
+- Levi Strauss & Co. — Trucker or non-trucker? (2023). https://levistrauss.com/2023/10/17/trucker-or-non-trucker — *EXT-010*
+- Ley 7/1996, de Ordenación del Comercio Minorista, arts. 20 (precio anterior, 30 días), 24–26 (rebajas), en su redacción vigente (BOE-A-1996-1072) — *ARM-007*
+- Libertad Digital — El traje de Chacón en la Pascua Militar, centro de la polémica (retrospectiva de 2014 sobre la Pascua de 2010). https://www.libertaddigital.com/espana/2014-01-06/el-traje-de-chacon-en-la-pascua-militar-centro-de-la-polemica-1276507632/ — *COD-010*
+- Libertad Digital — La Pascua Militar (galería). https://www.libertaddigital.com/fotos/pascua-militar-reyes-1001067/ — *COD-004*
+- Lisa Birnbach — The Official Preppy Handbook (1980) — *EST-004*
+- Luca Turin, Tania Sanchez — Perfumes: The A–Z Guide (2008) — *ASE-005*
+- Maine Department of Agriculture — Clothes moths. https://www1.maine.gov/DACF/php/gotpests/bugs/documents/clothes-moths-col.pdf — *CUI-006*
+- Marie Claire UK — 7 Trends from the Men's Fashion Week Shows that You can Actually Wear Now (act. 30-06-2025). https://www.marieclaire.co.uk/fashion/fashion-week-mens-ss26-trends — *EST-015*
+- Marketplace — Dress code history: business casual (2012). https://www.marketplace.org/2012/08/17/business/workplace-culture/dress-code-history-business-casual/ — *COD-007*
+- Mary Blume — Côte d'Azur: Inventing the French Riviera (1992) — *EST-011*
+- Memora — Fichas de ritos funerarios. https://www.memora.es/sites/default/files/uploads/folletos/Fitxes%20Ritus%20funeraris%20cast.pdf — *COD-012*
+- Mental Floss — Why can't you wear white after Labor Day? https://www.mentalfloss.com/culture/fashion-beauty/why-cant-you-wear-white-after-labor-day — *MIT-010*
+- Michael Edwards — Fragrances of the World (guía anual) y la rueda de fragancias — *ASE-005*
+- Michel Pastoureau — Bleu: histoire d'une couleur (2000) y Noir: histoire d'une couleur (2008); trad. esp. en Paidós — *COL-010*
+- Michel-Eugène Chevreul — De la loi du contraste simultané des couleurs (1839) — *CUE-007*
+- Military Times — A brief history of cargo pants (2020). https://www.militarytimes.com/off-duty/military-culture/2020/09/12/a-brief-history-of-cargo-pants-the-militarys-greatest-fashion-contribution — *CAS-013*
+- Ministerio de Consumo — Derechos en la compra a empresas de bienes de segunda mano (dsca.gob.es) — *ARM-002*
+- Ministerio de Consumo — Derechos en la compra a empresas de bienes de segunda mano y reacondicionados (dsca.gob.es) — *ARM-006*
+- Ministry of Supply — Engineering the Perfect Short-Sleeve Shirt (2019). https://blog.ministryofsupply.com/blog/2019/5/16/engineering-the-perfect-short-sleeve-shirt — *MIT-008*
+- Minus33 — Wool fabric weights overview. https://minus33.com/pages/wool-fabric-weights — *CAS-012*
+- Miren Arzalluz — Cristóbal Balenciaga: The Making of a Master (1895–1936) (2011) — *EST-014*
+- Mr Porter — The Storied History Of The French Workwear Jacket. https://www.mrporter.com/en-it/journal/fashion/the-storied-history-of-the-french-workwear-jacket-555802 — *CAS-008*
+- Museo Cristóbal Balenciaga (Getaria). https://www.cristobalbalenciagamuseoa.com — *EST-014*
+- Museo del Traje (Madrid) — colecciones de indumentaria tradicional y sastrería — *EST-014*
+- National Geographic — Your khaki pants have a history that may surprise you. https://www.nationalgeographic.com/history/article/surprising-colonial-history-khakis — *CAS-002*
+- NCD Risk Factor Collaboration — A century of trends in adult human height, eLife 5:e13410 (2016) — *CUE-002*
+- Nelson W. Aldrich Jr. — Old Money: The Mythology of America's Upper Class (1988) — *EST-013*
+- Nicholas Storey — History of Men's Fashion (2008) — *MIT-006*
+- Nicolas Antongiavanni — The Suit (2006) — *CUE-011*
+- Nigel Cabourn — A Potted History of Military Trousers and Cargo Pants. https://www.cabourn.com/blogs/journal/a-potted-history-of-military-trousers-and-cargo-pants — *CAS-013*
+- No Man Walks Alone — The origins of business casual. https://nomanwalksalone.com/blogs/news/the-origins-of-business-casual-repost — *COD-007*
+- Nogales Rincón (nombre de pila no verificado) — El color negro: luto y magnificencia en la Corona de Castilla (siglos XIII-XV), Medievalismo. https://revistas.um.es/medievalismo/article/view/279611 — *COD-012*
+- NPR — entrevista a Derek Guy sobre complementos (2024). https://www.npr.org/transcripts/1235517907 — *SAS-014*
+- Numéro — tendencias de hombre primavera-verano 2026 (julio 2025) — *EST-015*
+- O. T. Norwood — Male pattern baldness: classification and incidence, Southern Medical Journal 68(11) (1975) — *ASE-007*
+- OEKO-TEX — STANDARD 100. https://www.oeko-tex.com/en/our-standards/oeko-tex-standard-100 — *TEJ-015*
+- Oficina Federal de Salud Pública de Suiza — Factsheet sunglasses. https://www.bag.admin.ch/dam/bag/en/dokumente/str/nis/uv/faktenblatt-sonnenbrillen.pdf.download.pdf/Factsheet%20sunglasses.pdf — *ACC-004*
+- Ohio University Heritage College of Osteopathic Medicine — What to wear on camera (ohio.edu) — *OCA-013*
+- Ohio University Heritage College of Osteopathic Medicine — What to wear on camera. https://ohio.edu/medicine/about/offices/information-learning-tech/what-wear-camera — *COL-008*
+- Oliver Sweeney — Norwegian welted construction. https://www.oliversweeney.com/pages/norwegian-welted-construction — *CAL-009*
+- Ordenanzas municipales de convivencia de Barcelona (reforma de 2011; nueva ordenanza en vigor desde el 15-02-2026) y de otros municipios costeros sobre vestimenta en la vía pública — *OCA-009*
+- Organización Mundial de la Salud — Cómo lavarse las manos (40–60 s) y Directrices sobre higiene de manos (2009). https://www.who.int — *ASE-006*
+- Pantone — Pantone announces Color of the Year 2026: Cloud Dancer (04-12-2025). https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer — *EST-015*
+- Paolo D'Angelo — Sprezzatura: Concealing the Effort of Art from Aristotle to Duchamp, Columbia University Press (2018) — *FUN-007*
+- Patagonia — Down fill power explained. https://eu.patagonia.com/be/en/stories/guides/product/what-is-down-fill-power/story-166881.html — *EXT-007*
+- Patricia Mears (ed.) — Ivy Style: Radical Conformists (2012, The Museum at FIT) — *EST-004*
+- Paul Fussell — Class: A Guide Through the American Status System (1983) — *EST-013*
+- Permanent Style (Simon Crompton) — artículos sobre casas de Savile Row — *EST-002*
+- Permanent Style (Simon Crompton) — The rules and how to break them, No. 2 (2008). https://www.permanentstyle.com/2008/09/the-rules-and-how-to-break-them-no2.html — *MIT-002*
+- Permanent Style y Put This On — artículos sobre lino y vestir de verano — *EST-011*
+- Permanent Style — A guide to linen bunches (2018). https://www.permanentstyle.com/2018/06/a-guide-to-linen-bunches-2018.html — *TEJ-007*
+- Permanent Style — A loss to sartorial language (2008) — *AJU-007*
+- Permanent Style — artículos sobre fresco y high-twist (permanentstyle.com) — *OCA-007*
+- Permanent Style — artículos sobre pruebas con sastres (consulta 2026) — *AJU-008*
+- Permanent Style — artículos sobre pruebas y defectos de ajuste (consulta 2026) — *AJU-005*
+- Permanent Style — artículos sobre tailoring de viaje (permanentstyle.com) — *OCA-006*
+- Permanent Style — Calvo de Mora, bespoke tailor, Madrid (2012) y Spanish tailors (2014) — *AJU-007*
+- Permanent Style — Five tips on pocket handkerchiefs (2012). https://www.permanentstyle.com/2012/01/five-tips-on-pocket-handkerchiefs.html — *SAS-014*
+- Permanent Style — guías sobre abrigos y punto (consulta 2026) — *AJU-009*
+- Permanent Style — Movie Stars and Matadors: The Story of the Seseña Cape (2024). https://permanentstyle.com/2024/07/movie-stars-and-matadors-the-story-of-the-sesena-cape.html — *EST-014*
+- Permanent Style — Removing the white stitch on a new coat. https://www.permanentstyle.com/?p=98938 — *MIT-012*
+- Permanent Style — Rescuing shoes (2010). https://www.permanentstyle.com/2010/08/rescuing-shoes.html — *CAL-014*
+- Permanent Style — Rule 4: Always button the waist button of your jacket. And only that button. https://www.permanentstyle.com/2009/02/the-rules-and-how-to-break-them-no4 — *SAS-003*
+- Permanent Style — Spanish tailors (2014). https://www.permanentstyle.com/2014/07/spanish-tailors.html — *EST-014*
+- Permanent Style — Suit style 2: The single breasted. https://www.permanentstyle.com/2016/05/suit-style-2-the-single-breasted — *SAS-003*
+- Permanent Style — Suit style 9: Trouser cuffs, belts and tabs. https://www.permanentstyle.com/2016/04/suit-style-9-trouser-cuffs-belts-and-tabs — *SAS-010*
+- Permanent Style — Suit style 9: Trouser cuffs, belts and tabs. https://www.permanentstyle.com/2016/05/suit-style-9-trouser-cuffs-belts-and-tabs — *SAS-020*
+- Permanent Style — Suits like cities: One way to understand Italian tailoring (2026) — *EST-003*
+- Permanent Style — The basics of selecting cloth (2016). https://www.permanentstyle.com/2016/09/the-basics-of-selecting-cloth — *TEJ-002*
+- Permanent Style — The basics of selecting cloth (2016). https://www.permanentstyle.com/2016/11/the-basics-of-selecting-cloth — *TEJ-011*
+- Permanent Style — The guide to knitwear fibre: wool, cashmere and cotton. https://www.permanentstyle.com/2020/12/the-guide-to-knitwear-fibre-wool-cashmere-and-cotton — *CAS-006*
+- Permanent Style — The guide to overcoating cloths (2016). https://www.permanentstyle.com/2016/09/the-guide-to-overcoating-cloths — *TEJ-004*
+- Permanent Style — The guide to types of knitwear: gauge, end and ply. https://www.permanentstyle.com/2021/01/the-guide-to-types-of-knitwear-gauge-end-and-ply — *CAS-006*
+- Permanent Style — The styles of bow tie, and why they matter (2021). https://www.permanentstyle.com/2021/12/the-styles-of-bow-tie-and-why-they-matter.html — *SAS-013*
+- Permanent Style — Tommy & Giulio Caraceni: Modernising the Roman tailor (2022); Ferdinando Caraceni herringbone suit: style breakdown — *EST-003*
+- Permanent Style — Video: What 'spalla camicia' really means (2019). https://www.permanentstyle.com/2019/12/video-what-spalla-camicia-really-means.html — *EST-003*
+- Peter Marshall — Black Tie Guide (blacktieguide.com): variantes de etiqueta de noche — *OCA-010*
+- Peter Marshall — Black Tie Guide. https://www.blacktieguide.com — *FUN-003*
+- Peter Thompson y Kyriaki Mikellidou — Applying the Helmholtz illusion to fashion: horizontal stripes won't make you look fatter, i-Perception 2(1) (2011). https://journals.sagepub.com/doi/10.1068/i0405 — *FUN-002*
+- Pierre Bourdieu — La distinción. Criterio y bases sociales del gusto (1979) — *EST-013*
+- Pitti Immagine Uomo — Husky, brand profile. https://uomo.pittimmagine.com/it/exhibitors/H/husky — *EXT-011*
+- Primer Magazine — Free cost per wear calculator (2026) — *ARM-008*
+- Pringle of Scotland — All about gauge. https://www.pringlescotland.com/pages/all-about-gauge — *CAS-006*
+- Printful — T-shirt weight guide. https://www.printful.com/blog/t-shirt-weight-guide — *CAS-003*
+- Proper Cloth — Dress Shirt Collar Styles. https://propercloth.com/reference/dress-shirt-collar-styles/ — *SAS-007*
+- Proper Cloth — How to measure glove size. https://propercloth.com/reference/how-to-measure-glove-size/ — *ACC-006*
+- Proper Cloth — Shirt collar feels tight but there is space behind the neck (consulta 2026-11) — *AJU-004*
+- Protocolo.org — Expresiones utilizadas en las invitaciones escritas. https://www.protocolo.org/social/anfitriones-e-invitados/expresiones-utilizadas-en-las-invitaciones-escritas.html — *COD-010*
+- Protocolo.org — Trajes de etiqueta masculina; Expresiones utilizadas en las invitaciones escritas. https://www.protocolo.org/social/vestuario/trajes-etiqueta-etiqueta-masculina.html — *COD-004*
+- Put This On / Gentleman's Gazette — guías sobre pant break (consulta 2026) — *AJU-003*
+- Put This On y Permanent Style — artículos sobre ajuste en cuerpos atléticos (consulta 2026) — *CUE-009*
+- Put This On — consejos de ajuste para hombres corpulentos (consulta 2026) — *CUE-004*
+- Put This On — guías de ajuste de pantalón (consulta 2026) — *AJU-002*
+- Put This On — guías de ajuste para hombres de baja estatura (consulta 2026) — *CUE-002*
+- Put This On — guías de arreglos (consulta 2026) — *AJU-006*
+- Put This On — guías de colores base. https://putthison.com — *COL-002*
+- Put This On — guías sobre arreglos y relación con el sastre (consulta 2026) — *AJU-008*
+- Put This On — How To Shop On A Budget (putthison.com) — *OCA-004*
+- R. W. G. Hunt — Light and dark adaptation and the perception of color, JOSA 42 (1952); resumen en Wikipedia — Hunt effect. https://en.wikipedia.org/wiki/Hunt_effect_(color) — *COL-007*
+- Raquel Marco, Meer — Dress code para eventos (2022): frac después de las 19 h. https://www.meer.com/es/70141-dress-code-para-eventos — *COD-004*
+- Real Decreto 1468/1988, Reglamento de etiquetado, presentación y publicidad de los productos industriales (art. 3 y 7.5). https://www.boe.es/buscar/act.php?id=BOE-A-1988-28089 — *CUI-001*
+- Real Decreto 1826/2009, que modifica el RITE (BOE-A-2009-19915), IT 3.8.2: recintos refrigerados no por debajo de 26 °C. https://www.boe.es/eli/es/rd/2009/11/27/1826/con — *OCA-004*
+- Real Decreto 928/1987, etiquetado de composición de los productos textiles. https://www.boe.es/eli/es/rd/1987/06/05/928/con — *CUI-001*
+- Real Decreto Legislativo 1/2007, Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios (TRLGDCU), arts. 102–108 (desistimiento) y 114–127 (garantía), en la redacción del Real Decreto-ley 7/2021 (BOE-A-2007-20555) — *ARM-006*
+- Real Men Real Style — Buying second hand suits (realmenrealstyle.com) — *ARM-006*
+- Real Men Real Style — Right sock length. https://www.realmenrealstyle.com/right-sock-length/ — *ACC-003*
+- Real Men Real Style — Tack stitching. https://www.realmenrealstyle.com/tack-stitching/ — *MIT-012*
+- Real Men Real Style — What to wear on TV camera (realmenrealstyle.com) — *OCA-013*
+- Reglamento (CE) 1223/2009 sobre productos cosméticos y Reglamento (UE) 2023/1545 (etiquetado de alérgenos de fragancia) — *ASE-005*
+- Reglamento (CE) 1223/2009 — advertencias obligatorias en tintes capilares que contienen p-fenilendiamina — *ASE-008*
+- Reglamento (UE) 2024/2462 — Restricción de PFHxA (incluye aerosoles impermeabilizantes de consumo). https://eur-lex.europa.eu/eli/reg/2024/2462/oj/eng — *CUI-007*
+- Reglamento (UE) 2024/2462 — Restricción de PFHxA en el anexo XVII de REACH. https://eur-lex.europa.eu/eli/reg/2024/2462/oj/eng — *TEJ-010*
+- Reglamento (UE) 2024/2462 — Restricción de PFHxA. https://eur-lex.europa.eu/eli/reg/2024/2462/oj/eng — *TEJ-015*
+- Reglamento (UE) n.º 1007/2011 relativo a las denominaciones de las fibras textiles y al etiquetado. https://eur-lex.europa.eu/eli/reg/2011/1007/oj — *TEJ-001*
+- Reglamento (UE) n.º 1007/2011 relativo al etiquetado de composición textil — *CUI-001*
+- REI — Down vs. Synthetic / guías de capas técnicas. https://www.rei.com/learn/expert-advice/down-vs-synthetic — *CAS-010*
+- REI — Down vs. Synthetic. https://www.rei.com/learn/expert-advice/down-vs-synthetic — *EXT-011*
+- REI — Down vs. Synthetic: Which Insulation is Right for You? https://www.rei.com/learn/expert-advice/down-vs-synthetic — *CAS-012*
+- REI — What Is Down Fill Power?; Down vs. Synthetic. https://www.rei.com/learn/expert-advice/what-is-down-fill-power — *EXT-007*
+- Revisiones dermatológicas sobre canicie prematura (definición: antes de 20 años en población caucásica, antes de 25 en asiática y 30 en africana) — *ASE-008*
+- Riccardo Villarosa y Giuliano Angeli — The Elegant Man (1990) — *TEJ-002*
+- Richard Barnes — Mods! (1979) — *EST-012*
+- Richard Russell — A sex difference in facial contrast and its exaggeration by cosmetics, Perception 38(8):1211–1219 (2009) — *CUE-007*
+- Richard Russell — Sex, beauty, and the relative luminance of facial features, Perception 32(9) (2003) — *CUE-007*
+- Richard Walker — The Savile Row Story (1988) — *EST-002*
+- Rick Wicklin — Moiré patterns: Or why you shouldn't wear a striped shirt on a video (The DO Loop, SAS Blogs, 5 junio 2023). https://blogs.sas.com/content/iml/2023/06/05/moire-patterns.html — *OCA-011*
+- Roberto Cabrera y Patricia Flaherty Meyers — Classic Tailoring Techniques: A Construction Guide for Men's Wear (1983) — *CUE-008*
+- Roland-Garros — The polo shirt, the other icon of Roland-Garros. https://www.rolandgarros.com/en-us/article/rg-summer-the-polo-shirt-the-other-icon-roland-garros — *CAS-004*
+- Rutgers Cooperative Extension — Fact Sheet FS1182 (plagas de materiales animales). https://extension.rutgers.edu/fs1182/ — *CUI-007*
+- Rutgers Cooperative Extension — Fact Sheet FS1182: Clothes moths and carpet beetles. https://extension.rutgers.edu/fs1182/ — *CUI-006*
+- Ryanair — Bag policy (help.ryanair.com): bolsa gratuita 40 × 30 × 20 cm; bolsa de cabina con Priority 55 × 40 × 20 cm y 10 kg — *OCA-006*
+- SATRA — artículo sobre ensayo de transpirabilidad (ISO 11092). https://www.satra.com/spotlight/article.php?id=590 — *EXT-005*
+- Savile Row Bespoke Association — About / normas de la asociación (consulta 2026-11) — *AJU-007*
+- Savile Row Bespoke Association — definición de bespoke y requisitos de oficio. https://www.savilerowbespoke.com — *EST-002*
+- Savile Row Co — Should you remove suit stitching? https://savilerowco.com/blogs/news/suit-mistakes-should-you-remove-suit-stitching — *MIT-012*
+- Schott NYC — The Schott Story. https://www.schottnyc.com/pages/story — *EXT-009*
+- Shkolnik, A., Taylor, C. R., Finch, V. y Borut, A. — Why do Bedouins wear black robes in hot deserts? Nature 283, 373–375 (1980). https://doi.org/10.1038/283373a0 — *OCA-007*
+- Shkolnik, A.; Taylor, C. R.; Finch, V.; Borut, A. — Why do Bedouins wear black robes in hot deserts? Nature 283, 373–375 (1980) — *TEJ-007*
+- SikhiWiki — Visiting a Gurdwara. https://www.sikhiwiki.org/index.php/Visiting_a_Gurdwara — *COD-011*
+- Simon Crompton — Dressing for complexion and skin colour: should you care? Permanent Style (2016). https://www.permanentstyle.com/2016/02/dressing-for-complexion-and-skin-colour-should-you-care — *FUN-006*
+- Simon Crompton — Permanent Style, artículos sobre colores base y armario. https://www.permanentstyle.com — *COL-002*
+- Simon Crompton — Permanent Style, artículos sobre combinaciones de traje, camisa y corbata. https://www.permanentstyle.com — *COL-004*
+- Simon Crompton — Permanent Style, artículos sobre combinar patrones. https://www.permanentstyle.com — *COL-005*
+- Simon Crompton — Permanent Style, artículos sobre mezclar sastrería y ropa informal. https://www.permanentstyle.com — *FUN-004*
+- Simon Crompton — Permanent Style, artículos sobre punto bajo americana y abrigo sobre traje. https://www.permanentstyle.com — *FUN-009*
+- Simon Crompton — Permanent Style, artículos sobre textura y combinación de tejidos. https://www.permanentstyle.com — *FUN-005*
+- Simon Crompton — Permanent Style, artículos sobre vestir con la edad. https://www.permanentstyle.com — *FUN-012*
+- Simon Crompton — Permanent Style, artículos sobre zapatos marrones con traje. https://www.permanentstyle.com — *COL-009*
+- Simon Crompton — Permanent Style, serie sobre 'personal style'. https://www.permanentstyle.com — *FUN-010*
+- Slepian, Ferber, Gold y Rutchick — The cognitive consequences of formal clothing, Social Psychological and Personality Science 6, 661–668 (2015) — *FUN-011*
+- Smithsonian Magazine — How the Trench Coat Made Its Mark in World War I. https://www.smithsonianmag.com/history/trench-coat-made-its-mark-world-war-i-180955397/ — *EXT-004*
+- Smithsonian Magazine — The Story Behind the Lacoste Crocodile Shirt. https://www.smithsonianmag.com/arts-culture/the-story-behind-the-lacoste-crocodile-shirt-91276898/ — *CAS-004*
+- Société Française des Parfumeurs — Classification des parfums (7 familias) — *ASE-005*
+- Sports Illustrated Vault — Boyz in da hoodie (2006). https://vault.si.com/vault/2006/10/23/boyz-in-da-hoodie — *CAS-007*
+- Stanley/Stella — T-shirts: why weight matters. https://stanleystella.com/en-us/blog/post/t-shirts-why-weight-matters — *CAS-003*
+- Stars and Stripes — Navy all-blue PT uniforms and peacoat (13-11-2026). https://www.stripes.com/branches/navy/2026-11-13/navy-all-blue-pt-uniforms-peacoat-23456551.html — *EXT-006*
+- Stridewise — Can you resole sneakers? https://stridewise.com/can-you-resole-sneakers/ — *CAL-008*
+- Styleforum — hilo Fabric weights. https://www.styleforum.net/threads/fabric-weights.8194/ — *TEJ-011*
+- Suitsupply — Jacket fit guide (consulta 2026-11) — *AJU-001*
+- T3 — What's the best merino GSM? https://t3.com/features/whats-the-best-merino-gsm — *CAS-012*
+- Tanenbaum Center for Interreligious Understanding — Entering Sacred Spaces: Houses of Worship. https://tanenbaum.org/about-us/tanenbaum-resources/entering-houses-of-worship/ — *COD-011*
+- Tanenbaum Center — Entering Sacred Spaces. https://tanenbaum.org/about-us/tanenbaum-resources/entering-houses-of-worship/ — *COD-012*
+- Ted Polhemus — Streetstyle: From Sidewalk to Catwalk (1994) — *EST-012*
+- Teruyoshi Hayashida et al. — Take Ivy (1965) — *EST-010*
+- Teruyoshi Hayashida, Shosuke Ishizu et al. — Take Ivy (1965; ed. inglesa 2010) — *EST-004*
+- Textile Exchange — What is the Responsible Wool Standard (RWS)? https://textileexchange.org/?p=26149 — *TEJ-015*
+- The 1916 Company — Watch size guide. https://www.the1916company.com/blog/watch-size-guide.html — *ACC-001*
+- The Art of Manliness — The complete guide to men's belts (2018). https://www.artofmanliness.com/style/accessories/complete-guide-mens-belts/ — *ACC-002*
+- The Brooklyn Museum — The Rise of Sneaker Culture (exposición, 2015) — *EST-008*
+- The Cut (Jason Chen) — Normcore Is Over. Gorpcore Is In. (2017) — *EST-009*
+- The Gentleman's Journal — No brown in town? Well, think again. https://www.thegentlemansjournal.com/article/no-brown-in-town-well-think-again/ — *MIT-002*
+- The Henry Ford — Tees-R-Us: From Underwear to Everywhere. https://www.thehenryford.org/collections/explore/tees-r-us--from-underwear-to-everywhere — *CAS-003*
+- The Met — Brooks Brothers polo coat, 1915–25 (obj. 159525). https://metmuseum.org/art/collection/search/159525 — *EXT-003*
+- The Objective — Colores prohibidos en una boda (2023). https://theobjective.com/lifestyle/2023-04-03/colores-prohibidos-boda/ — *COL-010*
+- The Rake — How to dress for your skin tone. https://therake.com/default/stories/skintone — *FUN-006*
+- The Rake — The History and Anatomy of Neapolitan Tailoring. https://therake.com/default/stories/the-history-and-anatomy-of-neapolitan-tailoring — *EST-003*
+- The Rake — The history of the Trench Coat. https://therake.com/stories/style/style-101-the-trench-coat/ — *EXT-004*
+- The Shoe Snob — A guide to leather. https://theshoesnobblog.com/a-guide-to-leather/ — *CAL-010*
+- The Shoe Snob — Leather soles vs rubber soles. https://theshoesnobblog.com/leather-soles-vs-rubber-soles/ — *CAL-011*
+- The Woolmark Company — propiedades de la lana (woolmark.com) — *ARM-005*
+- The Woolmark Company — propiedades de la lana merino (woolmark.com) — *OCA-006*
+- The Woolmark Company — propiedades térmicas de la lana (woolmark.com) — *OCA-008*
+- The Woolmark Company — Specification F-7 Wool Blend Products (2026). https://files.woolmark.com — *TEJ-015*
+- The Woolmark Company — Wool care (guía de cuidado de prendas de lana). https://www.woolmark.com — *CUI-003*
+- The Woolmark Company — Wool care / Woolmark machine wash. https://woolmark.com/industry/certification/brand-guidelines/woolmark-brand/pure-new-wool-machine-wash/ — *CUI-005*
+- Thomas Fink y Yong Mao — Designing tie knots by random walks. Nature 398, 31–32 (1999). https://www.nature.com/articles/35000270 — *SAS-012*
+- Thomas Fink y Yong Mao — The 85 Ways to Tie a Tie (1999) — *SAS-011*
+- Thomas Fink y Yong Mao — The 85 Ways to Tie a Tie: The Science and Aesthetics of Tie Knots (1999) — *SAS-012*
+- Thomas Mason / tejedurías de camisa — guías de encogimiento del algodón (consulta 2026) — *AJU-004*
+- Thorstein Veblen — The Theory of the Leisure Class (1899) — *EST-013*
+- Time — The real reason you're not supposed to wear white after Labor Day (2019). https://time.com/5658699/white-after-labor-day/ — *MIT-010*
+- Time+Tide — When is a thin watch too thin? https://timeandtidewatches.com/when-is-a-thin-watch-too-thin/ — *ACC-001*
+- UNE-EN 13402 — Designación de tallas para prendas de vestir — *ARM-006*
+- Universidad de Las Palmas de Gran Canaria — Un vestido para cada ocasión: la indumentaria (2014). https://accedacris.ulpgc.es/bitstream/10553/58562/1/CC_22_%282014%29_07.pdf — *COD-012*
+- Universidad de Murcia (Digitum) — La indumentaria de luto (PDF). https://digitum.um.es/digitum/bitstream/10201/27875/1/LA%20INDUMENTARIA%20DE%20LUTO.pdf — *COL-010*
+- Uppers — Chaqués, el origen del traje masculino más protocolario (2022). https://uppers.es/estilo-de-vida/belleza/20220919/chaques-origen-masculino-protocolario-funeral_18_07491771.html — *COD-004*
+- US Army Natick — ANSUR II, base pública de varones (4.082 sujetos; crotchheight/stature, cálculo propio). https://www.openlab.psu.edu/ansur2/ — *CUE-011*
+- V&A — Chesterfield coat, objeto O123804. https://collections.vam.ac.uk/item/O123804 — *EXT-002*
+- V&A — T-Shirts 101. https://www.vam.ac.uk/blog/news/t-shirts-101-part-1 — *CAS-003*
+- V&A — Trench coats: from real mud to Nostalgia of Mud. https://www.vam.ac.uk/blog/textiles-and-fashion/trench-coats-from-real-mud-to-nostalgia-of-mud — *EXT-004*
+- Valerie Steele (ed.) — The Berg Companion to Fashion (2010), entradas de ropa deportiva — *CAS-010*
+- Valerie Steele (ed.) — The Berg Companion to Fashion (2010): entradas sobre Jil Sander, Helmut Lang y minimalismo de los 90 — *EST-007*
+- Valet — Making the case: the cost-per-wear argument (2024) — *ARM-002*
+- Victoria and Albert Museum — colecciones y textos sobre Teddy Boys, mods y punk. https://www.vam.ac.uk — *EST-012*
+- Videomaker — Just what should I wear? (videomaker.com) — *OCA-013*
+- Videomaker — Just what should I wear? https://www.videomaker.com/article/c14/12990-just-what-should-i-wear — *COL-008*
+- Vitale Barberis Canonico y Holland & Sherry — catálogos con gramajes por temporada — *ARM-005*
+- Vitale Barberis Canonico — guía de tejidos y acabados. https://www.vbc1663.com — *FUN-005*
+- W. H. Sheldon — The Varieties of Human Physique (1940) — *CUE-001*
+- Walks of Italy — The Vatican dress code. https://walksofitaly.com/blog/vatican/the-vatican-dress-code — *COD-011*
+- Warby Parker — How should glasses fit. https://www.warbyparker.com/learn/how-should-glasses-fit — *ACC-004*
+- We Are The Mighty — Navy ditches iconic peacoat. https://www.wearethemighty.com/history/navy-ditches-iconic-peacoat-minions-pt-uniform-and-other-clothing-changes/ — *EXT-006*
+- Weather.com — Best umbrellas buying guide (2024). https://weather.com/atmosphere/reviews/news/2024-03-03-best-umbrellas-buying-guide — *ACC-010*
+- Wikipedia — A-2 jacket. https://en.wikipedia.org/wiki/A-2_jacket — *EXT-009*
+- Wikipedia — Barbour (company). https://en.wikipedia.org/wiki/Barbour_jacket — *EXT-008*
+- Wikipedia — Black tie; Henry Poole & Co. https://en.wikipedia.org/wiki/Black_tie — *COD-003*
+- Wikipedia — Blazer. https://en.wikipedia.org/wiki/Blazer — *SAS-006*
+- Wikipedia — Capsule wardrobe (en.wikipedia.org/wiki/Capsule_wardrobe): Susie Faux (tienda Wardrobe, Londres, años 1970) y Donna Karan (Seven Easy Pieces, 1985) — *ARM-001*
+- Wikipedia — Cargo pants. https://en.wikipedia.org/wiki/Cargo_pants — *CAS-013*
+- Wikipedia — Casual Friday. https://en.wikipedia.org/wiki/Casual_Friday — *COD-007*
+- Wikipedia — Chesterfield coat. https://en.wikipedia.org/wiki/Chesterfield_coat — *EXT-002*
+- Wikipedia — Chino cloth. https://en.wikipedia.org/wiki/Chino_cloth — *CAS-002*
+- Wikipedia — Chore jacket. https://en.wikipedia.org/wiki/Chore_jacket — *CAS-008*
+- Wikipedia — Color analysis (consulta 2026-11) — *CUE-007*
+- Wikipedia — Color symbolism. https://en.wikipedia.org/wiki/Color_symbolism — *COL-010*
+- Wikipedia — Cuff. https://en.wikipedia.org/wiki/Cuff — *MIT-011*
+- Wikipedia — Drape suit. https://en.wikipedia.org/wiki/Drape_suit — *FUN-008*
+- Wikipedia — EN 13402 y Shoe size (consulta 2026-11) — *CUE-005*
+- Wikipedia — Espadrille; Avarca. https://en.wikipedia.org/wiki/Espadrille — *CAL-012*
+- Wikipedia — Fill power. https://en.wikipedia.org/wiki/Fill_power — *EXT-007*
+- Wikipedia — Floating canvas. https://en.wikipedia.org/wiki/Floating_canvas — *TEJ-012*
+- Wikipedia — Goodyear welt; Lyman Reed Blake. https://en.wikipedia.org/wiki/Goodyear_welt — *CAL-009*
+- Wikipedia — Harrington jacket. https://en.wikipedia.org/wiki/Harrington_jacket — *EXT-010*
+- Wikipedia — Lapel. https://en.wikipedia.org/wiki/Lapel — *SAS-002*
+- Wikipedia — MA-1 bomber jacket. https://en.wikipedia.org/wiki/MA-1_bomber_jacket — *EXT-010*
+- Wikipedia — Midnight blue (uso en etiqueta bajo luz artificial). https://en.wikipedia.org/wiki/Midnight_blue — *COL-007*
+- Wikipedia — Morning dress (chalecos de chaqué según Debrett's). https://en.wikipedia.org/wiki/Morning_dress — *SAS-015*
+- Wikipedia — Morning dress (Debrett's sobre nudos con chaqué). https://en.wikipedia.org/wiki/Morning_dress — *SAS-012*
+- Wikipedia — Morning dress (incluye recomendaciones de Debrett's, Hardy Amies y normas de Royal Ascot). https://en.wikipedia.org/wiki/Morning_dress — *SAS-018*
+- Wikipedia — Morning dress (recoge la postura de Debrett's y Hardy Amies sobre cuello de pajarita y plastrón). https://en.wikipedia.org/wiki/Morning_dress — *OCA-002*
+- Wikipedia — Necktie. https://en.wikipedia.org/wiki/Necktie — *SAS-011*
+- Wikipedia — Pea coat. https://en.wikipedia.org/wiki/Pea_coat — *EXT-006*
+- Wikipedia — Pratt knot. https://en.wikipedia.org/wiki/Pratt_knot — *SAS-012*
+- Wikipedia — Quiet luxury (consultado 2026-11). https://en.wikipedia.org/wiki/Quiet_luxury — *EST-013*
+- Wikipedia — Raglan sleeve; Balmacaan. https://en.wikipedia.org/wiki/Raglan_sleeve ; https://en.wikipedia.org/wiki/Balmacaan — *EXT-005*
+- Wikipedia — Shell cordovan. https://en.wikipedia.org/wiki/Shell_cordovan — *CAL-010*
+- Wikipedia — Smart casual. https://en.wikipedia.org/wiki/Smart_casual — *COD-008*
+- Wikipedia — Sprezzatura. https://en.wikipedia.org/wiki/Sprezzatura — *FUN-007*
+- Wikipedia — Suit jacket. https://en.wikipedia.org/wiki/Suit_jacket — *SAS-001*
+- Wikipedia — Suspenders. https://en.wikipedia.org/wiki/Suspenders — *SAS-020*
+- Wikipedia — Sweatshirt. https://en.wikipedia.org/wiki/Sweatshirt — *CAS-007*
+- Wikipedia — Tack (sewing). https://en.wikipedia.org/wiki/Tack_(sewing) — *MIT-012*
+- Wikipedia — The 85 Ways to Tie a Tie. https://en.wikipedia.org/wiki/The_85_Ways_to_Tie_a_Tie — *SAS-012*
+- Wikipedia — Trench coat. https://en.wikipedia.org/wiki/Trench_coat — *EXT-004*
+- Wikipedia — Ulster coat. https://en.wikipedia.org/wiki/Ulster_coat — *EXT-003*
+- Wikipedia — Waistcoat (sección sobre el botón inferior y sus explicaciones). https://en.wikipedia.org/wiki/Waistcoat — *MIT-001*
+- Wikipedia — Waistcoat. https://en.wikipedia.org/wiki/Waistcoat — *SAS-015*
+- Wikipedia — Western dress codes (informal/casual). https://en.wikipedia.org/wiki/Western_dress_codes — *COD-009*
+- Wikipedia — Western dress codes. https://en.wikipedia.org/wiki/Western_dress_codes — *COD-001*
+- Wristcheck — Size guide: how to pick the perfect fit for your wrist. https://wristcheck.com/discover/watch-101/size-guide-how-to-pick-the-perfect-fit-for-your-wrist — *ACC-001*
+- Yale Medicine — Beard and mustache skin problems. https://www.yalemedicine.org/news/beard-mustache-skin-problems — *ASE-002*
+- Young Jee Han, Joseph C. Nunes, Xavier Drèze — Signaling Status with Luxury Goods: The Role of Brand Prominence, Journal of Marketing 74(4) (2010) — *EST-013*
+- Zhang, S. et al. — Regenerated cellulose by the Lyocell process, a brief review. BioResources 13(2) (2018) — *TEJ-010*
+- ¡Hola! Novias — Guía esencial para entender la etiqueta (2015): evento de mañana = antes de la caída del sol. https://www.hola.com/novias/2015072480121/etiqueta-fiesta-tipos/ — *COD-004*
+- ¡Hola! — Cena de gala con el Sultán de Omán: el protocolo (04-11-2025). https://www.hola.com/realeza/casa_espanola/20251104865646/maria-jose-gomez-y-verdu-experta-en-protocolo-cena-de-gala-sultan-oman/ — *SAS-019*
+- ¡Hola! — Cena de gala con el Sultán de Omán: el protocolo (2025). https://www.hola.com/realeza/casa_espanola/20251104865646/maria-jose-gomez-y-verdu-experta-en-protocolo-cena-de-gala-sultan-oman/ — *COD-002*
+- ¡Hola! — Recepción del 12 de octubre en el Palacio Real (2023). https://www.hola.com/realeza/casa_espanola/20231012599780/invitados-recepcion-palacio-real-12-octubre-2023/ — *COD-010*
